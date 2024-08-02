@@ -1,6 +1,6 @@
 
 ## Mi a célja ennek a listának?
-A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozása és karbantartása, amely kiszűri az álwebáruházakat, megelőzve az anyagi kár elszenvedését. Elsősorban olyan oldalakat tartalmaz a lista, amik magyar nyelvűek vagy törekednek a magyar felhasználók becsapására. Jelenleg csupán kb. 300 oldal van összeszedve, de egy kis segítséggel, közösen könnyen bővíthetjük, mert sajnos nap, mint nap rengeteg új álwebáruház "nyitja meg kapuit"
+A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozása és karbantartása, amely kiszűri az álwebáruházakat, megelőzve az anyagi kár elszenvedését. Elsősorban olyan oldalakat tartalmaz a lista, amik magyar nyelvűek vagy törekednek a magyar felhasználók becsapására. Jelenleg csupán kb. 1000 oldal van összeszedve, de egy kis segítséggel, közösen könnyen bővíthetjük, mert sajnos nap, mint nap rengeteg új álwebáruház "nyitja meg kapuit"
 
 Nézze meg másik projektemet, ahol álhíroldalak vannak összegyűjtve
 https://github.com/FakesiteListHUN/FakesiteListHUN
@@ -10,6 +10,7 @@ https://www.losonczi-janos.hu/kamu-atveros-outdoor-ruhazati-webshopok-listaja <b
 https://www.mozgasvilag.hu/futas/hirek/hamis-mizuno-webshopok <br>
 https://www.kamuwebshopok.hu/ <br>
 https://www.facebook.com/groups/kamuwebshopok.hu <br>
+https://www.facebook.com/groups/1310663392669929 <br>
 Saját gyűjtemény <br>
 stb.
 
@@ -27,4 +28,9 @@ https://raw.githubusercontent.com/FakesiteListHUN/FakeWebshopListHUN/main/fakewe
 ## Közreműködés
 Ha munkájával hozzá szeretne járulni a projekthez, akkor kérem, készítsen egy pull request-et [itt](https://github.com/FakesiteListHUN/FakeWebshopListHUN/pulls).
 <br>Köszönöm a közreműködést!
+
+<p align="center">
+<img src="https://github.com/FakesiteListHUN/FakeWebshopListHUN/blob/main/webshop.jpg?raw=true" alt="webshop szabályok" width="800"/>
+</p>
+
 
