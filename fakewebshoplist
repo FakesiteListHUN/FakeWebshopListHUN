@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 1.6
+! Version: 1.7
 ! Title: Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.08.05
-! Expires:
+! Last modified: 2024.08.09
+! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
 !forrasok:
@@ -174,6 +174,7 @@ shopon.hu
 !Külföldi csaló webáruházak listája fb oldal
 barefooter.hu
 columbiaoutletbudapest.com
+downrangecapital.buzz
 egeszsegess.com
 euro-buy.hu
 getvente.com
@@ -195,9 +196,14 @@ LDNSYTUOVIX.COM
 frilla.hu
 hs-plus.com
 hsplus.si
+hu.bodybite.eu
+hu.lovilion.com
+hu.mormark.eu
 hu.revine.eu
+hu.rubicum.com
 revine.eu
 soldius.com
+superzebra.hu
 toprabat.hu
 vigoexpress.hu
 vigoshop.hu
@@ -236,7 +242,7 @@ cloudseshop.com
 locasfashio.com
 voidestyle.com
 
-!alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com
+!alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com vagy rivkaseth2395@gmaill.com
 !"A "minőségre törekvő és ügyfeleinkkel törődő" alapelvhez ragaszkodva, ügyfeleinknek kiváló minőségű, alacsony költségű, biztonságos és biztonságos termékeket kínálunk postai rendelés útján.":
 achieveyr.shop
 amenupr.lol
@@ -251,6 +257,7 @@ combinationkl.shop
 coordinatewr.shop
 cproductcr.live
 crakedr.lol
+cwithinze.lol
 cworthlessze.lol
 dprpioncr.live
 drllityd.monster
@@ -268,6 +275,7 @@ hkermrtlywr.lol
 hmassuy.monster
 honestoir.shop
 hreyionh.monster
+htribep.lol
 jlecturecd.life
 jspader.live
 jstairy.live
@@ -280,6 +288,7 @@ mprdgecr.live
 msobe.life
 mstndayt.lol
 msurdert.life
+muniquet.lol
 nlaycd.life
 nowngm.live
 nreslity.life
@@ -740,6 +749,8 @@ oblecinie.com
 omronpolandfb.com
 omronservefb.com
 opasd.live
+poidosk.hu
+poidosk.com
 poidosk1.com
 pzmse.com
 qbncz.live
@@ -1578,6 +1589,121 @@ honeyjkuu.com
 mcelwears.com
 mimwe.com
 vaserecenze.eu
+
+!az alábbi email címmel kereshető service@homefra.com:
+analyzed.top
+beachle.top
+californiasy.top
+cheapct.top
+cherishes.top
+crazysb.top
+czoline.com
+domainox.top
+fashionedclothing.com
+fashionles.top
+fashuying.com
+goodibuy.top
+gracetiro.com
+internetwn.com
+it.shop.cartx.cloud
+itopdy.top
+josyliving.com
+kanimyon.com
+lackbag.com
+leeye.top
+manlk.top
+mkacars.top
+moology.top
+mpstop.top
+paginadeshop.ro
+ployg.com
+poilty.com
+pwvsoi.top
+qualitysy.top
+recommenddaily.top
+richct.top
+romanticorner.com
+shop.sboutique.top
+shop.vooguer.com
+shoplifego.com
+sportwoek.top
+spstop.top
+stopconnect.top
+trendnewlife.top
+vintagena.top
+yhohj.com
+yolushika.com
+yousuperbcool.top
+zenmasstt.com
+zitmayoo.com
+
+!az alábbi email címmel kereshető service@couturegenre.com service@svalstyle.com
+!az alábbi szöveggek egyikével kereshetőek ezek az oldalak
+!"hogy leengedjük az árat, majd visszaküldjük Önnek, ami mindkettőnknek veszteség!"
+!"chousshop"
+ardsboots.com
+choicefashio.com
+chousshop.com
+derniestyle.com
+fasionestyle.com
+favorhlight.com
+frontvoguer.com
+grocerysion.com
+henryoshop.com
+ldsavi.com
+rftionmall.com
+shopouncle.com
+
+!egy tarsasag  "Visual Meta GmbH"
+crocsihushop.cc
+gaborshungary.com
+reebok-hu.com
+twinsethungary.com
+
+!az alábbi email címmel kereshető service@couturegenre.com alinwan1127@gmail.com:
+alorcj.shop
+altroconsumo.it
+cvtayx.shop
+fationd.shop
+fouctio.shop
+fouctio.shop
+fuared.shop
+olisad.shop
+ribofition.shop
+scalding.shop
+shilong.shop
+tassder.shop
+
+!Csaló és Megbízható Webáruházak oldalról vannak ezek, de ott még a hivatalos Zara oldala is rajta van a listán
+!átnézés alatt, hogy melyikhez mi kapcsolódik még:
+alexredfern.com
+aygcbf.store
+azsiacenter.com
+cawgood.shop
+coffeemaestrovip.com
+daunag.shop
+daunag.store
+dscountvip.shop
+gold-media.hu
+gyorsanvedd.hu
+hunnca.com
+ivet.comawptser.com
+lineoshop.hu
+lovilion.com
+maldero.com
+mcccod.com
+mormark.eu
+myhank.hu
+netscroll.hu
+onlyfrolsho.com
+shoeishopp.com
+suprabudapest.top
+szamocapalantak.com
+tuomifurniture.com
+xigxigerb.com
+yeurshop.com
+zencenter.hu
+zendesk.com
 
 !Eriakos
 99centsales.com
