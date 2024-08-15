@@ -17,7 +17,7 @@ stb.
 ## Támogatott hirdetésblokkolók
 Jelenleg csak uBlock Origin hirdetésblokkolókon van tesztelve a lista, későbbiekben további programok is támogatva lesznek
 <p align="center">
-    <a href="https://github.com/gorhill/uBlock"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg" width="14px"> uBlock Origin</a> |
+    <a href="https://github.com/gorhill/uBlock#ublock-origin-ubo"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/UBlock_Origin.svg" width="14px"> uBlock Origin</a>
 </p>
 
 ## Telepítés
