@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 1.8.1
+! Version: 1.8.2
 ! Title: Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.08.15
+! Last modified: 2024.08.18
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -181,8 +181,10 @@ downrangecapital.buzz
 egeszsegess.com
 euro-buy.hu
 getvente.com
+glassportseed.com
 gsaence.com
 jlchlb.shop
+kerdessor.hu
 lstockshop.com
 rendorseg-birsagok.com
 offerferraro.com
@@ -2039,7 +2041,7 @@ znmg.store
 zrhoe.store
 zspks.store
 
-!az alábbi szöveggek egyikével kereshetőek ezek az oldalak
+!az alábbi szöveggek egyikével kereshetőek ezek az oldalak:
 !"Az Ön címe hibás, kérjük, vegye fel velünk a kapcsolatot e-mailben 12 órán belül a cím megváltoztatása érdekében"
 !"ionaiozvb@gmail.com"
 !"Weifang Yayue könyvkereskedés"
@@ -2093,7 +2095,6 @@ lprunes.com
 lqqyz.live
 lumoslu.com
 luyslxugm.com
-m.facebook.com
 mcccod.com
 mddex.live
 mengbaodan.com
@@ -2140,6 +2141,22 @@ wyfdc.live
 xibage.com
 xymhxxqw.com
 yuoevc.com
+
+!az alábbi szöveggel kereshetőek ezek az oldalak
+!"a piacon kapható legújabb termékeket forgalmazzuk, és mindent megteszünk, hogy Önt boldoggá tegyük"
+bivana.hu
+kikinoshop.com
+mositashop.hu
+vrisoshop.co
+
+!az alábbi szöveggek egyikével kereshetőek ezek az oldalak:
+"vipshopping2024@outlook.com"
+"Hong Kong Zhang Xue International Limited"
+henryy.shop
+hoomwell.com
+odedd.com
+pelyba.shop
+sportflyd.com
 
 !Eriakos
 99centsales.com
