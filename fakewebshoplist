@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.3
+! Version: 2.4
 ! Title: Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.10.04
+! Last modified: 2024.10.11
 ! Expires: 5 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -118,8 +118,9 @@ theboxhu.com
 vopqws.shop
 wstraightv.monster
 xyl.explodedsheet.shop
-zinubyy.com
 zuza-shop.com
+!vestid:
+zinubyy.com
 !egy tarsasag:
 palma-shop.eu
 mint-star.hu
@@ -207,6 +208,7 @@ holmibolt.hu
 jlchlb.shop
 jofogos-hu.xyz
 kerdessor.hu
+legerocipo.com
 lstockshop.com
 maxcf.dndsr.life
 megapota.com
@@ -214,17 +216,22 @@ nkxece.info
 offerferraro.com
 olento.eu
 openkuai.online
+parksidevip.shop
 powerpulsehungary.com
 r7ev7bb.world
 rendorseg-birsagok.com
 salonomnhuoutlet.com
+sinjink.com
 sunwhitebcn.com
 surprisebox-eu.com
 territorymod.com
+textile365.space
+track.xolotracks.com
 trendzeu.com
 triumshop.com
 tt.tigyuf.online
 uzo.com
+vellostore.company.site
 vigorshop.hu
 vlgnesbest.shop
 walmart-uk.shop
@@ -233,6 +240,7 @@ yizhiyu.shop
 zalandoeu-outlets.shop
 zalandosale-eur.shop
 ziolserv.shop
+zynovalabs.com
 !egy tarsasag:
 hu.layoners.com
 hu.megasstic.com
@@ -484,6 +492,7 @@ orid.live
 orptiono.monster
 otutorw.monster
 pcornp.lol
+pdampenq.monster
 pdecepionq.lol
 pnorthhy.monster
 podvodnabazaru.cz
@@ -746,6 +755,7 @@ lancebd.com
 latexcharms.com
 losaprily.com
 lovelouisyyl.com
+norrona.vip
 occupni.com
 oemo.online
 petseeder.com
@@ -764,6 +774,7 @@ aprefiony.life
 curtainpr.shop
 emechanicspr.lol
 hmeasurepr.lol
+kxvcc.life
 lephonetefl.shop
 mparadisehg.live
 pcontextq.monster
@@ -773,6 +784,7 @@ wmetalpr.lol
 wpetroleumry.lol
 
 !alábbi szöveggel kereshetőek ezek az oldalak, egy tarsasag mind (HK ONEWAY?):
+!Itt lehet megpróbálni pénzt visszakérni: euways24@gmail.com
 !"Expressz kézbesítést használunk, például J&T/DHL/GD"
 !"mint például a J&T/DHL/GDEX"
 !"Az Ön címe hibás, kérjük, vegye fel velünk a kapcsolatot e-mailben 12 órán belül a cím megváltoztatása érdekében"
@@ -1882,8 +1894,10 @@ zitmayoo.com
 !az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"hogy leengedjük az árat, majd visszaküldjük Önnek, ami mindkettőnknek veszteség!"
 !"a világ egyik vezető online kiskereskedője, és sok jó oka van arra, hogy nálunk vásároljon"
+!"a világ egyik vezető online áruháza, és sok jó oka van arra, hogy tőlünk vásároljon."
 !"chousshop"
 ardsboots.com
+cadestore.com
 choicefashio.com
 chousshop.com
 derniestyle.com
@@ -1896,16 +1910,12 @@ grocerysion.com
 henryoshop.com
 kiashoppin.com
 ldsavi.com
-rftionmall.com
-shopouncle.com
-spoelove.com
-!az alábbi szöveggel kereshetőek ezek az oldalak
-!"a világ egyik vezető online áruháza, és sok jó oka van arra, hogy tőlünk vásároljon."
-cadestore.com
 lragashop.com
 networksbuy.com
 oiscbh.com
 rftionmall.com
+shopouncle.com
+spoelove.com
 treasuregive.com
 
 !egy tarsasag  "Visual Meta GmbH"
@@ -2473,6 +2483,46 @@ zshti.top
 amarwsec.lol
 rwillfulj.lol
 tjerk.lol
+
+!THB Ventures LLP
+breebliss.com
+lucanora.hu
+
+!ugyanazokat a csodaszereket árulja, még át kell nézni mi minden tartozik hozzájuk
+!xiongyal
+!service@wellrtgfd.com
+!service@sugoper.com
+bestshorfh.shop
+bestuyhgf.com
+blcatinird.top
+catinelf.top
+focatinear.top
+goodebv.com
+greatdbh.com
+happygtdd.com
+jucoaslie.com
+shapeupd.com
+suntherd.top
+tenyng-se.com
+vitaglowd.com
+
+!Fubsta és egyéb kamu csodaszereket árulja, még át kell nézni mi minden tartozik hozzájuk
+bravefa.com
+chriswu.shop
+claowabec.com
+fubsta.com
+fubstabio.com
+fubstasale.com
+healthlifecare.us
+hightherb.top
+homeking.in
+lemawio.com
+spgn.in
+molooco.com
+thecrazybeard.in
+thevivavista.com
+upriising.top
+tokeletes.shop
 
 !Eriakos
 99centsales.com
@@ -3104,3 +3154,10 @@ facebook.com/profile.php?id=61566332834076$all
 facebook.com/profile.php?id=61566387260654$all
 facebook.com/ClearMitesHU$all
 facebook.com/people/Upostalshop/100094113652595$all
+facebook.com/profile.php?id=61567006132345$all
+facebook.com/profile.php?id=100093412140172$all
+facebook.com/profile.php?id=61565698080238$all
+facebook.com/BardalesTech$all
+facebook.com/profile.php?id=100063739411118$all
+facebook.com/profile.php?id=100083594610958$all
+facebook.com/profile.php?id=61551229959474$all
