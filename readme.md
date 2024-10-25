@@ -5,6 +5,8 @@ A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozás
 Nézze meg másik projektemet, ahol álhíroldalak vannak összegyűjtve
 https://github.com/FakesiteListHUN/FakesiteListHUN
 
+Amennyiben bármilyen médiafelületen szeretné megelíteni ezt a projektet, kérem előtte keressen fel.
+
 ## Források
 https://www.losonczi-janos.hu/kamu-atveros-outdoor-ruhazati-webshopok-listaja <br>
 https://www.mozgasvilag.hu/futas/hirek/hamis-mizuno-webshopok <br>
