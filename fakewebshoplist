@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.7
+! Version: 2.8
 ! Title: Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.10.26
+! Last modified: 2024.10.27
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -70,7 +70,6 @@ riekermagyarorszag.com
 salewacipo.com
 salewamagyarorszag.com
 salomomhungary.com
-sepa.hu
 skecherswebshopsbudapest.com
 solovairbudapest.com
 thousaints-label.com
@@ -272,6 +271,7 @@ hu.megasstic.com
 layoners.com
 mazzaci.com
 megasstic.com
+s-mania.com
 smania.store
 !egy tarsasag:
 aceskoom.com
@@ -395,6 +395,9 @@ kalapod.hu
 
 !creative hu átvertek fb csoport
 allebaba.hu
+
+!Csaló és Megbízható Webáruházak fb csoport
+tujazao.info
 
 !alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com, rivkaseth2395@gmaill.com, coduserservice@outlook.com, euservice2024@outlook.com, customershelpyou@outlook.com, customerservicescstang@gmail.com vagy htjmguge@gmail.com
 !"Köszönjük, hogy vásárolt a magyarotthon webáruházban!" 
@@ -2297,7 +2300,7 @@ shilong.shop
 tassder.shop
 
 !Csaló és Megbízható Webáruházak oldalról vannak ezek, de ott még a hivatalos Zara oldala is rajta van a listán
-!átnézés alatt, hogy melyikhez mi kapcsolódik még:
+!TODO átnézés alatt, hogy melyikhez mi kapcsolódik még:
 alexredfern.com
 aygcbf.store
 azsiacenter.com
@@ -2323,7 +2326,6 @@ tuomifurniture.com
 xigxigerb.com
 yeurshop.com
 zencenter.hu
-zendesk.com
 
 !az alábbi email címmel kereshető service@holdoutyou24h.com:
 chetutte.com
@@ -2450,7 +2452,6 @@ fashionlifeshop.com
 fashioze.com
 fgfzznrsp.karachizoom.one
 flairgifts.com
-flickr.com
 fliptfeets.com
 freelifey.com
 futuremartllc.com
@@ -2503,19 +2504,15 @@ obllea.com
 openlifes.org
 osogbo.com
 outaplace.com
-outdoorproject.com
 outlady.com
-paypal-community.com
 pepsicar.com
 plrckysrstar.shop
 poyeruk.shop
 presentoasis.com
 prideearth.com
 ptyyoo.shop
-rareconnect.org
 respecteverything.store
 rinlre.com
-rocketreach.co
 rqbvdrf.karachizoom.one
 rubyclaireboutiques.com
 sfbrother.com
@@ -3175,7 +3172,7 @@ zenixgadget.com
 byrazue.info
 
 !az alábbi szövegekkel kereshetőek ezek az oldalak:
-"Számunkra Ön a legfontosabb, ezért igyekszünk minden kérdésére és kérdésére választ adni."
+!"Számunkra Ön a legfontosabb, ezért igyekszünk minden kérdésére és kérdésére választ adni."
 !"You are our priority so we will endeavour to answer all your questions and queries."
 !"Eres nuestra prioridad de manera que nos esforzaremos para responder a todas tus preguntas y consultas"
 !"Eres nuestra prioridad, así que nos esforzaremos por responder a todas tus preguntas y consultas."
@@ -3213,6 +3210,230 @@ timelesstreasuresbrandco.com
 usciouslivingco.com.au
 victoriadesignsco.com
 victoriasbrandsco.com
+
+!egy tarsasag Czech Trade Intermediaries s.r.o.:
+dorie.hu
+gigaly.hu
+maxie.hu
+
+mkafinance.top
+
+pallets-shop.com
+
+!kamu decathlon:
+decathlon-magyarorszag.webnode.page
+gearpulse.store
+perfectpresentplace.pro
+powergadgets.online
+treasureboxgifts.shop
+winitallraffle.ink
+
+!az alábbi szövegekkel kereshetőek ezek az oldalak:
+!"High-Quality GoodsEnjoy top quality items for less."
+!"Our office hours are 9.00 am-5.00 pm"
+!"We respond to most emails within a business day, but if you don't get a response from us, please check your spam bin!"
+!support@koronacide.com
+29nsvh.today
+aalygarg.shop
+acegolfs.com
+againes.live
+ajbis.shop
+algalaround.net
+alkabei.com
+alpuff.com
+alwaysll.com
+americanlucid.com
+anamelcups.com
+aquadpark.com
+aquevibe.com
+aquliss.com
+ardtsd.com
+arifschool.com
+arlime.com
+artautumn.com
+autorler.com
+barofuer.com
+bashamnet.com
+beenesting.com
+beesidy.com
+bemboss.com
+besttd.online
+blisquet.com
+bombmiss.com
+bonitafraser.top
+boomlulu.com
+brandlrt.com
+braveheartful.com
+bribrook.com
+brightdazz.com
+brivibe.com
+calmleam.com
+careoast.com
+cartawards.com
+cbjoa66.life
+celulabuy.com
+changebeautying.com
+charmmes.com
+cheecoast.com
+cheeringsoul.com
+chifur.com
+chocstra.com
+cianlu.com
+clozoz.net
+cnleyoyo.com
+context.reverso.net
+cookonware.top
+crestgift.com
+cwrcxxk.com
+danceobrcm.com
+dealotsa.com
+depotput.top
+dogsga.com
+dreamfuljoy.com
+dyemiss.com
+eabracelet.com
+eiweisonic.com
+elesbe.com
+ertherb.com
+ezmeyboutique.com
+farthf.com
+firstgr.com
+fkluyi.com
+flyweird.com
+freedmway.com
+frefrost.com
+frostinfo.com
+funwaterboard.ca
+fv27wptn.life
+gadgethalo.com
+genteace.com
+gillelia.com
+gilltry.com
+gkloot.top
+gleamingcascade.com
+gleamingparadise.com
+gloesse.com
+glowdem.com
+goopatch.com
+gopoao.com
+gratgrace.com
+growhabiity.com
+harmhori.com
+hatamus.com
+heahues.com
+henrih.com
+hetful.com
+hiattit.com
+honorabledeed.com
+hoomwell.com
+hopefuday.com
+hugcustom.com
+humpht.com
+indjx.com
+inkgas.com
+iroseesilk.com
+istardentalsupply.com
+jcyjcj.com
+jenssenx.com
+joyfulmome.com
+jpvf37.solutions
+juijoy.com
+justanswer.com
+jusxos.com
+k51qoz.life
+kelisiting.com
+kenyastore.top
+kindijoy.com
+kindise.com
+kindspires.com
+klyzor.com
+koonjs.com
+lagooblue.com
+laurvl.com
+lcoeye.com
+leriany.store
+lovelightful.com
+loviitouch.com
+lovilds.tech
+lumlash.com
+lumosandpiper.com
+lumowonder.com
+m.sakerplus.com
+mangopop.net
+materiafl.com
+monovarietales.com
+murcurii.top
+muthser.com
+nevayoo.com
+niceec.com
+nigelcs.com
+ninacustom.com
+nookneste.com
+ongess.com
+ou97tzy.life
+palaceodyiy.com
+payfountain.com
+peapetal.com
+pearyave.com
+progressjoy.com
+pronoro.com
+ptrcar.com
+puteyoo.com
+putlotz.com
+qd85qap.buzz
+qd86qap.buzz
+quinndui.com
+raeyer.com
+redearwatch.com
+risingsgn.com
+rismyer.com
+rorp.asia
+sakerplus.com
+shineglowing.com
+shiningjoys.com
+skyyhine.com
+smarthardy.com
+smiligrace.com
+smishore.com
+splendidcascade.com
+splendidhorizon.com
+splendidshores.com
+sportsdlrecteu.com
+ssgcustom.com
+sunkazy.com
+sunlitglee.com
+sunnabeam.com
+sunshinevictory.com
+sunnyglimpse.com
+sureyl.com
+surfstarsup.com
+takatc.com
+tanrewsla.com
+thebelacan.com
+trusagen.com
+truthfulwisdom.com
+tuxedosailor.com
+uk.trustpilot.com
+urgalaxy.com
+ushinny.com
+valwant.com
+vivacityv.com
+viviguru.com
+waikea.com
+wepricemail.com
+willwor.com
+wisdomspired.com
+wmbse.com
+xerbaner.shop
+xoxupd.shop
+yavariya.com
+yuxox.com
+zayglow.com
+zestycrest.com
+zestymeadow.com
+zestyradiance.com
+
+!TODO utánanézni az összes webshopnak ami erre a címre hivatkozik: Koronczói út 01628/9 hrsz. Győr
 
 !Eriakos
 99centsales.com
@@ -3875,3 +4096,24 @@ facebook.com/profile.php?id=100080739662791$all
 facebook.com/profile.php?id=61566814684539$all
 facebook.com/profile.php?id=61567538373551$all
 facebook.com/profile.php?id=61564947764738$all
+facebook.com/profile.php?id=61553351829274$all
+facebook.com/profile.php?id=100071481287816$all
+facebook.com/profile.php?id=61567265286654$all
+facebook.com/profile.php?id=61565008591379$all
+facebook.com/profile.php?id=61564665316593$all
+facebook.com/profile.php?id=61567807882695$all
+facebook.com/profile.php?id=61567298840180$all
+facebook.com/profile.php?id=61567179040733$all
+facebook.com/profile.php?id=61566173065280$all
+facebook.com/profile.php?id=61566335131538$all
+facebook.com/profile.php?id=61566472525313$all
+facebook.com/profile.php?id=61566556246521$all
+facebook.com/profile.php?id=61567736423911$all
+facebook.com/profile.php?id=61567775213098$all
+facebook.com/profile.php?id=61567999910560$all
+facebook.com/profile.php?id=61565631412624$all
+facebook.com/profile.php?id=61567790361844$all
+facebook.com/profile.php?id=61567506181905$all
+facebook.com/profile.php?id=61551559386520$all
+facebook.com/profile.php?id=61566710918362$all
+facebook.com/profile.php?id=61567155253097$all
