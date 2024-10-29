@@ -1,6 +1,6 @@
 
 ## Mi a célja ennek a listának?
-A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozása és karbantartása, amely kiszűri az álwebáruházakat, megelőzve az anyagi kár elszenvedését. Elsősorban olyan oldalakat tartalmaz a lista, amik magyar nyelvűek vagy törekednek a magyar felhasználók becsapására. Jelenleg kb. 3000 oldal van összeszedve, de egy kis segítséggel, közösen könnyen bővíthetjük, mert sajnos nap, mint nap rengeteg új csaló webáruház "nyitja meg kapuit".
+A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozása és karbantartása, amely kiszűri az álwebáruházakat, megelőzve az anyagi kár elszenvedését. Elsősorban olyan oldalakat tartalmaz a lista, amik magyar nyelvűek vagy törekednek a magyar felhasználók becsapására. Jelenleg kb. 4000 oldal van összeszedve, de egy kis segítséggel, közösen könnyen bővíthetjük, mert sajnos nap, mint nap rengeteg új csaló webáruház "nyitja meg kapuit".
 
 Sajnos még mindig egymagam készítem ezt a listát. Remélhetőleg hamar híre megy, cikket írnak róla stb. és akkor másokkal gyorsabban tudjuk bővíteni.
 
@@ -33,6 +33,10 @@ https://raw.githubusercontent.com/FakesiteListHUN/FakeWebshopListHUN/main/fakewe
 Ha munkájával hozzá szeretne járulni a projekthez, akkor kérem, készítsen egy pull request-et [itt](https://github.com/FakesiteListHUN/FakeWebshopListHUN/pulls).
 <br>Köszönöm a közreműködést!
 
+## Thanks
+Thank you [jarelllama](https://github.com/jarelllama/) to include this to your [Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist)
+
+##
 <p align="center">
 <img src="https://github.com/FakesiteListHUN/FakeWebshopListHUN/blob/main/webshop.jpg?raw=true" alt="webshop szabályok" width="800"/>
 </p>
