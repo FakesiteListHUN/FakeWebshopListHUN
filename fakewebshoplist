@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.9.1
-! Title: Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.10.29
+! Version: 2.10
+! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
+! Last modified: 2024.11.02
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -145,11 +145,12 @@ shopdailyday.com
 bazarosonline.hu
 bazarulonline.ro
 !egy tarsasag:
+aliexpress.hu
+azsiacenter.hu
+fruugo.hu
+kinaiwebaruhaz.hu
 mikroelektronik.hu
 szerszamkell.hu
-kinaiwebaruhaz.hu
-azsiacenter.hu
-aliexpress.hu
 !egy tarsasag:
 bobyslim.com
 crobeautiful.com
@@ -199,6 +200,7 @@ coopshoponline.com
 cppt24.top
 csdaftc.com
 cyberbazaar.org
+danube-shop.com
 diabetesinfodigest.shop
 djkipper.info
 dochic.top
@@ -240,6 +242,7 @@ onlineparkside.shop
 onnobbk.shop
 openkuai.online
 parksidevip.shop
+piqyliu.info
 powerpulsehungary.com
 primepick.hu
 r7ev7bb.world
@@ -259,6 +262,7 @@ triumshop.com
 tt.tigyuf.online
 uzo.com
 vellostore.company.site
+vermixin.online
 vigorshop.hu
 vlgnesbest.shop
 walmart-uk.shop
@@ -403,9 +407,12 @@ allebaba.hu
 !Csaló és Megbízható Webáruházak fb csoport
 tujazao.info
 
-!alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com, rivkaseth2395@gmaill.com, coduserservice@outlook.com, euservice2024@outlook.com, customershelpyou@outlook.com, customerservicescstang@gmail.com vagy htjmguge@gmail.com
+!alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com, rivkaseth2395@gmaill.com, coduserservice@outlook.com, euservice2024@outlook.com, customershelpyou@outlook.com, customerservicescstang@gmail.com, htjmguge@gmail.com vagy emily5v2joann@hotmail.com
 !"Köszönjük, hogy vásárolt a magyarotthon webáruházban!" 
 !"A "minőségre törekvő és ügyfeleinkkel törődő" alapelvhez ragaszkodva, ügyfeleinknek kiváló minőségű, alacsony költségű, biztonságos és biztonságos termékeket kínálunk postai rendelés útján.":
+!"Ha kérdése van a csomagjával kapcsolatban, illetve a követési számával, kérjük, győződjön meg róla, hogy legalább 2-5 nappal az után tette meg a rendelést, mivel ez az általános feldolgozási idő."
+!"Sokszor sok ember nem tudja, hogyan fejezze ki a szívét és a szeretetét, egyedi ajándék megoldja ezt a problémát"
+!"Mindig az egyedi személyre szabott ajándékok készítésére összpontosítottunk ügyfeleink számára, nagyon versenyképes árakat biztosítva, és elköteleztük magunkat amellett, hogy jobb vásárlási élményt nyújtsunk a világ minden tájáról érkező ügyfeleinknek."
 !+3628880000
 acheneryx.lol
 achieveyr.shop
@@ -477,11 +484,11 @@ connectionkl.shop
 coordinatewr.shop
 cproductcr.live
 crakedr.lol
+csealk.lol
 ctakek.lol
 cuppressdr.life
 cwithinze.lol
 cworthlessze.lol
-csealk.lol
 datapr.shop
 dcpiultel.lol
 ddiphnusl.monster
@@ -579,6 +586,8 @@ ieminent.lol
 iexhaustive.monster
 ifallible.lol
 ikin.lol
+imechanism.lol
+imellifluous.lol
 jautonomyy.monster
 jbogusy.monster
 jcoergety.lol
@@ -605,6 +614,7 @@ kopenvb.lol
 kpreservey.life
 kshaker.monster
 ktheirr.lol
+kvistar.monster
 kwondercv.lol
 ldevoteee.lol
 lducklinge.lol
@@ -680,6 +690,7 @@ oithodw.lol
 oleakcd.life
 omanufaduy.monster
 omwhnd.shop
+oobro.shop
 opentratelp.monster
 oprisony.life
 orid.live
@@ -759,9 +770,9 @@ tornadocst.com
 tovemrhy.monster
 tpeachlp.monster
 tprecsony.life
+ttypistf.monster
 tuddingcr.monster
 twatallf.monster
-ttypistf.monster
 ucoalesceu.lol
 ucollageu.monster
 udeviationu.lol
@@ -853,10 +864,54 @@ zindwetied.club
 zkindnessnu.top
 zpetrolry.lol
 zroudcr.monster
+zsitc.monster
 zteamc.monster
 zthtrful.lol
 zupwardc.monster
-zsitc.monster
+
+!idegennyelvű változatai a "magyarotthon"nak
+!TODO ezekhez még keresni
+!"4792520@gmail.com"
+!"chauncmistie9590@hotmail.com"
+!"eucustomerservice2012@outlook.com"
+!"heneycfyokleyat@hotmail.com"
+!"htjmguge@gmail.com"
+!"htkjshyx@gmail.com"
+!"lintao111141@gmail.com"
+!"orderaftersalesservicecenter@gmail.com"
+!"sss6662000@outlook.com"
+!"uiongkefidn321329@outlook.com"
+!"Aderendo al principio di base "perseguire la qualità e prendersi cura dei clienti come punto di partenza", forniamo ai clienti prodotti di alta qualità, a basso prezzo, sicuri e protetti attraverso la vendita per corrispondenza."
+!"Dodržiavajúc základný princíp "snaha o kvalitu a starostlivosť o zákazníkov", poskytujeme našim zákazníkom vysoko kvalitné, lacné, bezpečné a spoľahlivé výrobky prostredníctvom zásielkového predaja."
+!"Dostarczamy naszym klientom wysokiej jakości, tanie, bezpieczne i pewne produkty w sprzedaży wysyłkowej."
+!"Fornecemos aos nossos clientes produtos de alta qualidade, de baixo custo, seguros e protegidos através da venda por correspondência."
+!"Ievērojot pamatprincipu "kvalitātes nodrošināšana un rūpes par klientiem kā sākumpunkts", mēs piedāvājam klientiem augstas kvalitātes, zemas cenas, drošus un drošus produktus, izmantojot pasūtījumu pa pastu."
+!"Laikydamiesi pagrindinio principo "siekti kokybės ir rūpintis klientais kaip atspirties tašku", mes teikiame klientams aukštos kokybės, mažomis kainomis, saugius ir patikimus produktus paštu."
+!"Našim strankam zagotavljamo visokokakovostne, poceni, varne in zanesljive izdelke po pošti."
+!"Našim zákazníkům poskytujeme vysoce kvalitní, levné, bezpečné a zabezpečené výrobky prostřednictvím zásilkového obchodu."
+!"Pridržavajući se osnovnog načela "težeći kvaliteti s kupcima kao polaznom točkom i brigom za kupce", kupcima pružamo visokokvalitetne, niske cijene, sigurne i pouzdane proizvode putem narudžbe poštom."
+!"Proporcionamos a nuestros clientes productos de alta calidad, bajo coste y seguros a través de la venta por correo."
+!"Urmând principiul "calitatea și orientarea către client", oferim clienților noștri produse de înaltă calitate, eficiente din punct de vedere al costurilor și sigure prin intermediul comenzii prin poștă."
+affairyr.shop
+aintercept.monster
+bstacks.live
+cdeadenk.lol
+complicatedkl.shop
+dtrafficl.lol
+einvoke.monster
+hjokenu.top
+ifallow.lol
+jidiomoir.shop
+jinrementy.lol
+mardentt.monster
+ndepavtyo.lol
+richdsaj.com
+ttdisarmf.lol
+vovightgm.live
+vregulatev.lol
+wlazycd.life
+wsouro.life
+wwantv.monster
 
 !az alábbi szöveggel kereshetőek ezek az oldalak
 !"we love every passion and interest on Earth because it is a reference to your UNIQUENESS":
@@ -2277,17 +2332,61 @@ shopouncle.com
 spoelove.com
 treasuregive.com
 
-!egy tarsasag  "Visual Meta GmbH"
-!"Abban az esetben, ha egy általunk kiszállított termék megsérült vagy bármilyen más módon nincs rendben, akkor természetesen ingyenesen visszaküldheted nekünk a terméket a visszaküldési űrlappal együtt"
+!egy tarsasag "Visual Meta GmbH"
+!"által üzemeltett online bevásárlóközpont, mely ruházati termékeket, cipőket, táskákat és kiegészítőket kínál a vásárlóknak."
 !"Kérjük, készítsd elő a kártyádat! A bankkártyával történő fizetéshez az alábbi adatokra lesz szükséged:"
 !"elkötelezett a maximális vásárlói elégedettség irányában, emiatt kizárólag a saját üzleteinkben és raktárunkban polcon lévő és azonnal elérhető termékeket értékesítünk webáruházunkban."
+24bottleshungary.com
+agentprovocateurbudapest.com
+alohascipo.com
+alphaindustrieshungary.com
+annekleinwebshop.com
 aracipo.shop
+asicscipohungary.top
 aybl-hungary.com
+borsalinokalap.com
+c-and-a-onlinehu.com
 crocsihushop.cc
 csizmaboltbudapest.com
+doctorsmartenshungary.com
+essentialsbudapest.com
+falconeribudapest.com
+fearofgodmagyarorszag.com
 gaborshungary.com
+goldengoosemagyarorszag.com
+goldengoosemagyarorszag.top
+hellyhansenbudapest.eu
+hellyhansenhungary.eu
 jansport-hu.shop
+jblmagyarorszag.com
+kedscipohungary.com
+lanvinbudapest.com
+longchamp-budapest.com
+longchampmagyarorszag.eu
+mvmthu.com
+nakedwolfebakancs.com
+on-hungary.com
+oncloudhungary.com
+oofosmagyarorszag.com
+palladiumwebshop.com
+paulgreennoicipo.com
+pinko-magyarorszag.com
+pinkohungaryoutlet.com
+plantoysmagyarorszag.com
+premiatawebshop.com
+pumacipoboltok.com
+quiksilver-hungary.com
 reebok-hu.com
+schollwebshop.com
+sloggimagyarorszag.com
+songmontbudapest.com
+stussy--budapest.com
+stussybudapest.eu
+stussymagyarorszag.org
+stussyshopbudapest.com
+stussystorebudapest.com
+superfitshoesmagyarorszag.com
+thorogoodhu.com
 twinsethungary.com
 vionicmagyarorszag.com
 
@@ -2631,7 +2730,7 @@ wwwcon.top
 wwwion.top
 zywl.shop
 
-!D4 WEB d.o.o
+!egy tarsasag D4 WEB d.o.o
 d4web.eu
 mistermega.hu
 mistermega.hr
@@ -3458,7 +3557,7 @@ wayfonghydraulic.com
 wayfonghydraulic.com
 xinchem.com
 
-!Help@pctteam.com
+!help@pctteam.com
 bcfoff.shop
 blackgemstone.shop
 edgars-shop.com
@@ -3468,7 +3567,9 @@ lecreuseteshop.com
 olympics-eu.shop
 outerwearvip.shop
 
-!TODO utánanézni az összes webshopnak ami erre a címre hivatkozik: Koronczói út 01628/9 hrsz. Győr
+gyogylampabolt.hu
+
+!TODO utánanézni az összes webshopnak ami erre a címre hivatkozik, mert ez egy DPD depó: Koronczói út 01628/9 hrsz. Győr
 
 !Eriakos
 99centsales.com
@@ -4154,3 +4255,5 @@ facebook.com/profile.php?id=61567155253097$all
 facebook.com/profile.php?id=61557449666825$all
 facebook.com/profile.php?id=61563020926073$all
 facebook.com/profile.php?id=100063646236302$all
+facebook.com/profile.php?id=61567698489737$all
+facebook.com/profile.php?id=61552579899571$all
