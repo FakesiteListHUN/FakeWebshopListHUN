@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.10
+! Version: 2.10.1
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.11.02
+! Last modified: 2024.11.03
 ! Expires: 3 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -2350,6 +2350,7 @@ crocsihushop.cc
 csizmaboltbudapest.com
 doctorsmartenshungary.com
 essentialsbudapest.com
+etniesbudapest.com
 falconeribudapest.com
 fearofgodmagyarorszag.com
 gaborshungary.com
@@ -3569,6 +3570,22 @@ outerwearvip.shop
 
 gyogylampabolt.hu
 
+!pumaelbusta:
+etniessneakers.com
+emericasneakers.com
+
+!az alábbi email címmel kereshető service@insidezap.com
+bergan-s.shop
+etnies-eu.com
+florisvanbommelvip.shop
+florisvanbommelshop.com
+
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
+!"A házhoz szállítás díja megegyezik a Pick Pack pontokra történő kiszállítások díjával: 58.100 - Ft-tól a megrendelés ingyenes"
+!"Webáruházunk megrendeléseit a 3-10 munkanapon belül teljesíti."
+etnies-magyarorszag.com
+hokamagyarorszag-hu.com
+
 !TODO utánanézni az összes webshopnak ami erre a címre hivatkozik, mert ez egy DPD depó: Koronczói út 01628/9 hrsz. Győr
 
 !Eriakos
@@ -4255,5 +4272,9 @@ facebook.com/profile.php?id=61567155253097$all
 facebook.com/profile.php?id=61557449666825$all
 facebook.com/profile.php?id=61563020926073$all
 facebook.com/profile.php?id=100063646236302$all
+facebook.com/profile.php?id=61566424528978$all
+facebook.com/profile.php?id=61567158314068$all
+facebook.com/profile.php?id=61550320035096$all
+facebook.com/profile.php?id=61566931352074$all
 facebook.com/profile.php?id=61567698489737$all
 facebook.com/profile.php?id=61552579899571$all
