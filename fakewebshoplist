@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 2.10.1
+! Version: 2.10.2
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
 ! Last modified: 2024.11.03
 ! Expires: 3 days (update frequency)
@@ -229,6 +229,8 @@ joiride.eu
 kerdessor.hu
 legerocipo.com
 lstockshop.com
+lyvoxy.top
+maaarket.hu
 masori.shop
 maxcf.dndsr.life
 megapota.com
@@ -241,6 +243,7 @@ olento.eu
 onlineparkside.shop
 onnobbk.shop
 openkuai.online
+parksidestore.shop
 parksidevip.shop
 piqyliu.info
 powerpulsehungary.com
@@ -870,7 +873,7 @@ zthtrful.lol
 zupwardc.monster
 
 !idegennyelvű változatai a "magyarotthon"nak
-!TODO ezekhez még keresni
+!TODO: ezekhez még keresni
 !"4792520@gmail.com"
 !"chauncmistie9590@hotmail.com"
 !"eucustomerservice2012@outlook.com"
@@ -1042,81 +1045,138 @@ zodernus.com
 
 !az alábbi email címmel kereshető service.center.1@outlook.com vagy service@mail.karidoo.com
 asntgie.com
+bairck.com
+bareuo.com
 bawaino.com
 beeryxia.com
+beliefxya.com
 biezcar.com
 bizziron.com
+blernis.com
+bsiwoa.com
+bsoarw.com
 buiakm.com
 cearoluis.com
 chioean.com
+chosprin.com
 cleainji.com
+ctexitru.com
 daertui.com
+deepfeli.com
+dreauio.com
 durtues.com
+erxuiz.com
 fanclar.com
+fdaori.com
+feaow.com
+fearwing.com
 fintbars.com
 firtlie.com
+flasmoet.com
 frabizzio.com
+fyoiwu.com
 gentlde.com
 geteksx.com
+gsiwea.com
+gtsiay.com
+gwteir.com
 gysnin.com
 harcpos.com
 havealok.com
+hicvtn.com
 ifrucguo.com
 istahun.com
 jacqueio.com
+jeusica.com
 joedanuz.com
 juianug.com
 justeba.com
 kallbio.com
 katiech.com
+kdiozp.com
+keifile.com
+kmtuoi.com
+koaiut.com
 kuleszia.com
+lesntr.com
+ligpatr.com
+listaey.com
 lkintyc.com
+lsonkae.com
 madcson.com
 marciuo.com
+mchcrea.com
 mosezria.com
 namliop.com
 nassirob.com
 noueswee.com
+nuoetri.com
 nveatu.com
+odpanl.com
+oinawl.com
 orarcy.com
 paddln.com
 petriode.com
 planetzuo.com
 plivere.com
+pnritos.com
 poarich.com
+posiblur.com
+rdaikr.com
+reayvib.com
 redrosv.com
 richdqi.com
 riverbla.com
+roostelt.com
 roseute.com
 rstenmat.com
 rumorwen.com
+schaion.com
 scopeyn.com
+sempoir.com
 setsabc.com
 shcbna.com
 shiledm.com
 shoeieigtui.com
 skidae.com
+sklaip.com
 smeills.com
+snowaer.com
+srwinr.com
+stedasi.com
 sticak.com
+stoutv.com
 subllon.com
 sumaider.com
 suwalsh.com
 swipule.com
 swissdl.com
 tanshbe.com
+tauizok.com
+taylorlu.com
 telynmor.com
 tlawski.com
 tomemiy.com
+traoiw.com
 trickbran.com
+truziik.com
 udsoanz.com
+uliacna.com
 uljeazen.com
 ushpyyli.com
 uyeuwz.com
+vartotojuskundai.lt
 verlodya.com
 warmged.com
+weitrox.com
+wheatli.com
+xavieuk.com
 xinzhsta.com
 yergern.com
+ynerati.com
 ynuknes.com
+yudioun.com
+zvinrgo.com
 
 !az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"szeretünk minden szenvedélyt és érdeklődést a Földön"
@@ -1183,7 +1243,7 @@ stakemiea.shop
 wmetalpr.lol
 wpetroleumry.lol
 
-!alábbi szöveggel kereshetőek ezek az oldalak, egy tarsasag mind (HK ONEWAY?):
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak. Egy tarsasag mind (HK ONEWAY?)?:
 !Itt lehet megpróbálni pénzt visszakérni: euways24@gmail.com
 !"Expressz kézbesítést használunk, például J&T/DHL/GD"
 !"mint például a J&T/DHL/GDEX"
@@ -1484,7 +1544,7 @@ zwmhyl.com
 zykmallshop.com
 zzpro.live
 
-!az alábbi szövegekkel kereshetőek ezek az oldalak:
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"Az "ügyfél szemszögéből a minőség megvalósítására törekvő" alapvető koncepcióját követve online kínálunk ügyfeleinknek magas minőségű, alacsony árú, biztonságos és megbízható termékeket."
 !"Ha kérdése van az átvétellel, nyomon követési számmal kapcsolatban, kérjük, győződjön meg arról, hogy 2-5 nap telt el a rendelés leadása óta, mivel ez egy általános feldolgozási idő."
 !"ROOM 1702 17 / F HONGKONG TRADE CENTER NOS 161-167 DES, VOEUX"
@@ -2405,7 +2465,7 @@ shilong.shop
 tassder.shop
 
 !Csaló és Megbízható Webáruházak oldalról vannak ezek, de ott még a hivatalos Zara oldala is rajta van a listán
-!TODO átnézés alatt, hogy melyikhez mi kapcsolódik még:
+!TODO: átnézés alatt, hogy melyikhez mi kapcsolódik még:
 alexredfern.com
 aygcbf.store
 azsiacenter.com
@@ -3015,7 +3075,7 @@ originastyles
 solostores.com
 tbineshoes.com
 
-!az alábbi szövegekkel kereshetőek ezek az oldalak:
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !A legjobb szolgáltatásokat és termékeket kínáljuk Önnek!
 !a világ egyik vezető online áruháza, és sok oka van annak, hogy nálunk vásároljon. Gyorsan növekvő cég vagyunk, mert mindig ügyfeleink az elsők.
 !Együttműködünk a Nemzeti Teljesítési Központtal, hogy a lehető leggyorsabban kézbesítsük megrendelését
@@ -3070,7 +3130,7 @@ qfpqo.shop
 yejcw.club
 
 !kamu lidl stb
-!tradeboypro@gmail.com
+!az alábbi email címmel kereshető tradeboypro@gmail.com
 disdepstore.com
 alonggo.shop
 arvrhomes.com
@@ -3276,7 +3336,7 @@ zenixgadget.com
 !kamu Temu nyereményjáték
 byrazue.info
 
-!az alábbi szövegekkel kereshetőek ezek az oldalak:
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"Számunkra Ön a legfontosabb, ezért igyekszünk minden kérdésére és kérdésére választ adni."
 !"You are our priority so we will endeavour to answer all your questions and queries."
 !"Eres nuestra prioridad de manera que nos esforzaremos para responder a todas tus preguntas y consultas"
@@ -3333,7 +3393,7 @@ powergadgets.online
 treasureboxgifts.shop
 winitallraffle.ink
 
-!az alábbi szövegekkel kereshetőek ezek az oldalak:
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"High-Quality GoodsEnjoy top quality items for less."
 !"Our office hours are 9.00 am-5.00 pm"
 !"We respond to most emails within a business day, but if you don't get a response from us, please check your spam bin!"
@@ -3584,9 +3644,95 @@ florisvanbommelshop.com
 !"A házhoz szállítás díja megegyezik a Pick Pack pontokra történő kiszállítások díjával: 58.100 - Ft-tól a megrendelés ingyenes"
 !"Webáruházunk megrendeléseit a 3-10 munkanapon belül teljesíti."
 etnies-magyarorszag.com
-hokamagyarorszag-hu.com
+hokamagyarorszag-hu
 
-!TODO utánanézni az összes webshopnak ami erre a címre hivatkozik, mert ez egy DPD depó: Koronczói út 01628/9 hrsz. Győr
+!az alábbi email címmel kereshető wzhao6800@gmail.com
+codmala.com
+dhanguro.top
+expancz.top
+expaneu.top
+expanhu.top
+gadgetcz.top
+gadgetpl.top
+glafmbg.top
+glafmhu.top
+glafmlt.top
+glafmpl.top
+glafmsk.top
+glamhu.top
+paginadeshop.ro
+peakpl.top
+smoothpl.top
+stargglt.top
+tothousanpl.top
+usigncz.top
+usigneu.top
+
+!nagyrésze kamu Triumph
+!"yyx-woiaster"
+!"hzx-sigdeo"
+!"service.center.1@outlook.com"
+!"Triumph-3 darab💝Sofia hímzett csipkemelltartó oldaltámogatással"
+!"Hatalmas csészék támasztják, emelik és választják szét a melleket"
+andreisw.com
+brycespie.com
+chosrint.com
+cloufdy.com
+disabatin.com
+erinxav.com
+eyzoei.com
+fauscvi.com
+fauthor.com
+fearwing.com
+forestbai.com
+fulmoan.com
+fuozr.com
+genralt.com
+gooershp.com
+hearsot.com
+heuatir.com
+htivoa.com
+huyniar.com
+kiszow.com
+knbia.com
+kveris.com
+listfen.com
+lopuei.com
+ltioes.com
+milleradl.com
+mojikv.shop
+moranight.com
+mrsyav.com
+peraind.com
+pozisx.com
+rrbbins.com
+rtwijo.com
+scottdre.com
+smoenk.com
+stubime.com
+timetun.com
+uoshfr.com
+vdyiau.com
+wintsa.com
+wnkiesh.com
+yanioe.com
+yheiwto.com
+zoauiw.com
+
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
+!"Our absolute no-questions-asked, "you ll-totally-love-it-or-you-get-all-your-money-back" guarantee."
+crazysteampunk.com
+northfacesuperdeal.shop
+nycsterlingjewelry.shop
+sacsilver.shop
+silversplendorjewelry.shop
+ubesr.top
+
+insertbeakproductions.cfd
+
+barbour-eu.com
+
+!TODO: utánanézni az összes webshopnak ami erre a címre hivatkozik, mert ez egy DPD depó: Koronczói út 01628/9 hrsz. Győr
 
 !Eriakos
 99centsales.com
@@ -4278,3 +4424,11 @@ facebook.com/profile.php?id=61550320035096$all
 facebook.com/profile.php?id=61566931352074$all
 facebook.com/profile.php?id=61567698489737$all
 facebook.com/profile.php?id=61552579899571$all
+facebook.com/profile.php?id=61559013613808$all
+facebook.com/profile.php?id=61559089840420$all
+!kamu temu facebook
+facebook.com/TemuHungary/$all
+facebook.com/p/dolan-tommy-luke-61552489451197$all
+facebook.com/profile.php?id=61553165610082$all
+facebook.com/p/ECG-The-Jesus-Nation-Church-Gobabis-Namibia-100070555433423$all
+facebook.com/profile.php?id=61563315249649$all
