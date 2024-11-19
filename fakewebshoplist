@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.13
+! Version: 2.14
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.11.16
+! Last modified: 2024.11.19
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -146,6 +146,7 @@ bazarosonline.hu
 bazarulonline.ro
 !egy tarsasag:
 aliexpress.hu
+aliexpressz.hu
 azsiacenter.hu
 fruugo.hu
 kinaiwebaruhaz.hu
@@ -187,7 +188,8 @@ astifone.com
 atlantagoatyoga.sa.com
 azotobacter.top
 baiwordlt.top
-barefooter.hu
+barefootter.hu
+bargainhub.club
 basonel.com
 beautyforfra.com
 bermnry.shop
@@ -263,6 +265,8 @@ piqyliu.info
 powerpulsehungary.com
 primepick.hu
 queertunelix.com
+quordlepuzzles.com
+quordlepuzzles.hu
 r7ev7bb.world
 recentia.hu
 rendorseg-birsagok.com
@@ -2502,7 +2506,6 @@ tassder.shop
 !TODO: átnézés alatt, hogy melyikhez mi kapcsolódik még:
 alexredfern.com
 aygcbf.store
-azsiacenter.com
 cawgood.shop
 coffeemaestrovip.com
 daunag.shop
@@ -4042,6 +4045,7 @@ rtwijo.com
 scottdre.com
 smoenk.com
 stubime.com
+sufalon.com
 timetun.com
 uoshfr.com
 vdyiau.com
@@ -4076,7 +4080,7 @@ ovdoki.hu
 
 !Az igazi oldala a kórháznak a tatabanyakorhaz.hu/tatai-korhaz
 tatakorhaz.hu
-!rajta lévők kamu csodaszerek TODO: továbbnézni a többi oldalt, vamaint, hogy mi mihez tartozik
+!rajta lévők kamu csodaszerek TODO: továbbnézni, hogy mi mihez tartozik még
 4jco9.doctortrf.com
 5hondrosol.health-line.me
 7wberry.health-line.me
@@ -4355,6 +4359,7 @@ therasmith1.com
 triathlongearup.com
 truyenchat.net
 
+!az alábbi szöveggel kereshetőek ezek az oldalak
 !A UAB Convenity a világ legtöbb országába szállít a rendelkezésre álló leggyorsabb kézbesítési módszerekkel. 
 !+442080891401
 !UAB EKOMLITA
@@ -4387,6 +4392,7 @@ synoshi.com
 tvidler.com
 viaota.com
 
+!az alábbi szöveggel kereshetőek ezek az oldalak
 !"wanderheat"
 ajanlatmix.com
 heatpal.org
@@ -4441,6 +4447,49 @@ vellostore.com
 !egy tarsasag
 verybuy.cc
 welkory.shop
+
+!az alábbi szöveggel kereshetőek ezek az oldalak
+!"In recent two years, due to the impact of the epidemic COVID-19, Amazon's inventories have piled up and lots of warehouses have closed down"
+!support@koronacide.com 
+bazaare.online
+bottledjoybottle.com
+cookify.online
+fanybag.com
+gearnbrilliant.com
+godardarsale.shop
+hmhcarplayshop.com
+hyrlo.shop
+ianamess.com
+janet9s.com
+kindlingnow.top
+koronacide.com
+thebioco.com
+tokzy.shop
+vcmill.shop
+wevoce.com
+wonderonline.shop
+
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
+!CHALKERSPACE
+!"Welcome to chalkerspace, where passion, commitment, and family values have been at the heart of our journey from the very beginning."
+!"If you'd like to return something you can find our RETURN POLICY HRE."
+!"Please read our SHlPPlNG FAOS before contacting us, chances are we’ve answered your question there."
+ahook.online
+chalkerspace.com
+chollo-scs.shop
+clearancessale.shop
+monoologs.com
+rollmall.shop
+smarthomegrocery.shop
+storesit.top
+victoe.shop
+volcomg.shop
+
+!TRACKING!
+agiwex.com
+track.horinikos.com
+horinikos.com
+perrt.info
 
 !TODO: utánanézni az összes webshopnak ami erre a címre hivatkozik, mert ez egy DPD depó: Koronczói út 01628/9 hrsz. Győr
 
@@ -5158,3 +5207,5 @@ facebook.com/profile.php?id=61560769107385$all
 facebook.com/profile.php?id=100091283297489$all
 facebook.com/profile.php?id=61568085605683$all
 facebook.com/profile.php?id=61551422775210$all
+facebook.com/profile.php?id=100079965673768$all
+facebook.com/profile.php?id=61568766385425$all
