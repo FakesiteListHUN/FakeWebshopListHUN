@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.15
+! Version: 2.17
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.12.04
+! Last modified: 2024.12.11
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -24,6 +24,8 @@ altrarunninghungary.com
 altrasmagyarorszag.com
 barlemalls.com
 c-and-a-magyarorszag.com
+caterpillarihungary.com
+caterpillarshungary.com
 catshoes-hu.com
 conversehungary.com
 cutleryevent.com
@@ -227,10 +229,15 @@ facebookhmetacenter.uncody.site
 fashieiven.shop
 fashionclothingtt.shop
 footpeelmask.co.uk
+fragrance-perfumes.eu
+fragrance-perfumes.hu
+frigidtime.ink
 futurreal.shop
+geco-store-hu.com
 getvente.com
 gizzmo.hu
 glassportseed.com
+gogetfunland.com
 gsaence.com
 healingle.shop
 hobbymish.com
@@ -255,6 +262,7 @@ megapota.com
 moderse.eu
 nabidays.com
 naturequeens.com
+nfskdf.com
 nkxece.info
 nruuub.top
 offerferraro.com
@@ -269,14 +277,19 @@ parksidestore.shop
 parksidevip.shop
 parksidevips.shop
 piqyliu.info
+polarhu.com
 powerpulsehungary.com
+primediscount24.com
+primeestoreonline.com
 primepick.hu
 queertunelix.com
+quickkart24.com
 quordlepuzzles.com
 quordlepuzzles.hu
 r7ev7bb.world
 recentia.hu
 rendorseg-birsagok.com
+retromodehungary.myshoprenter.hu
 rieker.shoe-eu.one
 robicam.hu
 rufico-hungary.com
@@ -297,12 +310,15 @@ track.xolotracks.com
 trendzeu.com
 triumshop.com
 tt.tigyuf.online
+urban-trend.hu
 uzo.com
 vellostore.company.site
 vermixin.online
 vigorshop.hu
+vilfino.com
 vintagewholesalesupplyltd.com
 vlgnesbest.shop
+wallluy.shop
 walmart-uk.shop
 wapobyy.info
 xuel.com
@@ -323,10 +339,10 @@ smania.store
 aceskoom.com
 LDNSYTUOVIX.COM
 !egy tarsasag HS Plus doo:
+bodybite.eu
 frilla.hu
 hs-plus.com
 hsplus.si
-hu.bodybite.eu
 hu.lovilion.com
 hu.mormark.eu
 hu.revine.eu
@@ -682,6 +698,7 @@ lovecrazi.top
 lresemble.life
 lseee.lol
 lstalee.live
+mayiyahey.ibkqu.ltd
 mccphnyt.lol
 mcuberomet.lol
 mempathy.lol
@@ -721,6 +738,7 @@ ninorleo.lol
 njocular.monster
 nlaycd.life
 nliving.monster
+nmeasly.lol
 nowngm.live
 nreslity.life
 nreward.live
@@ -811,6 +829,7 @@ spremiery.life
 sproritycr.live
 ssaladyo.lol
 sslightb.monster
+sstraitb.lol
 stakemiea.shop
 swanlrb.monster
 taptiandr.life
@@ -1067,6 +1086,7 @@ scilulustore.com
 screenmysleep.com
 shopthryv.com
 sissy-boy.xyz
+qvcorder.com
 skirfy.com
 slight-xr-trading-llc.shop
 sparkyer.com
@@ -1257,10 +1277,11 @@ havealok.com
 homegroth.com
 horainbow.com
 hotwinet.com
-hu.chrecary.com
 hszink.shop
+hu.chrecary.com
 idaiholi.com
 jolieaprile.cash
+kobegigi.sale
 lancebd.com
 latexcharms.com
 losaprily.com
@@ -1268,6 +1289,7 @@ lovelouisyyl.com
 norrona.vip
 occupni.com
 oemo.online
+parksideshoppings.shop
 parksidetops.shop
 pebird.com
 petseeder.com
@@ -1302,6 +1324,7 @@ wpetroleumry.lol
 !Itt lehet megpróbálni pénzt visszakérni: euways24@gmail.com
 !"Expressz kézbesítést használunk, például J&T/DHL/GD"
 !"mint például a J&T/DHL/GDEX"
+!"We use express delivery such as J&T/DHL/GDEX, please fill in the detailed home address."
 !"Az Ön címe hibás, kérjük, vegye fel velünk a kapcsolatot e-mailben 12 órán belül a cím megváltoztatása érdekében"
 !"A címe rossz, kérjük, 12 órán belül vegye fel velünk a kapcsolatot postai úton a cím megváltoztatása érdekében"
 !"ionaiozvb@gmail.com"
@@ -1328,6 +1351,7 @@ bbbbra.com
 bcwtl.live
 beautybuy.live
 beautyfbb.com
+beenoop.com
 beetter-wang.com
 besttool.live
 bigtree.live
@@ -1368,6 +1392,7 @@ ddlty.live
 diyibd.com
 djhdufd.com
 doctorfbb.com
+eabilityz.com
 easteuropcod.com
 economicalooy.com
 enhpen.com
@@ -1544,6 +1569,7 @@ sssuyi.live
 storesbetter.com
 strangehomeook.com
 sttrw.com
+sufficee.com
 summerclothi.com
 summerfbb.com
 summernb.com
@@ -1620,6 +1646,7 @@ yyzc.live
 zdskgduyz.com
 zhnewx.com
 zhzbtsq.com
+zincrc.com
 zkjx.live
 zkkfc.live
 zoneflying.com
@@ -1635,6 +1662,7 @@ zzpro.live
 !"Ha kérdése van az átvétellel, nyomon követési számmal kapcsolatban, kérjük, győződjön meg arról, hogy 2-5 nap telt el a rendelés leadása óta, mivel ez egy általános feldolgozási idő."
 !"ROOM 1702 17 / F HONGKONG TRADE CENTER NOS 161-167 DES, VOEUX"
 !"The Company’s shopping centre is an ultra-large online shopping mall dedicated to providing you with the best online shopping malls for all kinds of products"
+!"Shopping Mall Thank you for every exchange and feedback, we are dedicated to serving you! If you have any questions or needs, you can contact us at any time."
 !"Webáruház egy olyan ötlet megvalósításaként jött létre, amelynek célja, hogy a vásárlónak barátságos, minőségi, kényelmes és olcsó online vásárlást biztosítson."
 !"webáruház egy olyan ötlet megvalósításaként jött létre, amelynek célja, hogy a vásárlónak barátságos"
 1ej2p.com
@@ -1924,6 +1952,7 @@ hu.qqdw1.com
 hu.qratiaoy.com
 hu.qwdstory.com
 hu.raiivoa.com
+hu.rataigio.com
 hu.rheauf.com
 hu.riiapuu.com
 hu.rraway.com
@@ -2170,8 +2199,10 @@ quwbuy.com
 qwdstory.com
 radabuy.com
 raiivoa.com
+rarajjoo.com
 raromma.com
 raroota.com
+rataigio.com
 reyry.store
 rgfvd.store
 rgwe.store
@@ -2380,8 +2411,8 @@ xdjewafe.com
 xghakw.com
 xgttu.com
 xhxggpa.com
-xjcs.store
 xixaioay.com
+xjcs.store
 xjdio.store
 xjhik.store
 xjie.store
@@ -2568,14 +2599,18 @@ cheapct.top
 cherishes.top
 chicystore.com
 colorfulskirt.com
+cooeinco.com
 crazysb.top
 czoline.com
 derailler.top
 domainox.top
 dpoik.com
+eternityr.top
 fashionedclothing.com
+fashiongr.com
 fashionles.top
 fashuying.com
+frtog.com
 goodibuy.top
 gracetiro.com
 greetedshop.com
@@ -2586,14 +2621,17 @@ itopdy.top
 josyliving.com
 kanimyon.com
 lackbag.com
+ladysy.top
 leeye.top
 luckbg.com
 manlk.top
 mkacars.top
+mkatrade.top
 mnwpi.top
 moology.top
 moviect.top
 mpstop.top
+penetrating.top
 pitting.top
 ployg.com
 poilty.com
@@ -2605,18 +2643,25 @@ romanticorner.com
 shop.sboutique.top
 shop.vooguer.com
 shoplifego.com
+skinggshop.com
 sportwoek.top
 spstop.top
 stopconnect.top
+stoppartners.top
 studentmo.top
+syresources.top
+tihappy.top
 trendnewlife.top
 videotl.top
 vintagena.top
 yhohj.com
 yolushika.com
+yourwor.top
 yousuperbcool.top
 zenmasstt.com
-zitmayoo.com
+zitmayoo.comyosuber.com
+zkloyp.com
+zometh.com
 
 !az alábbi email címmel kereshető service@couturegenre.com service@svalstyle.com service@kiashoppin.com
 !az alábbi szövegek egyikével kereshetőek ezek az oldalak
@@ -2630,6 +2675,7 @@ choicefashio.com
 chousshop.com
 derniestyle.com
 dveuoclothe.com
+fashiotail.com
 fasionestyle.com
 favorhlight.com
 favorrrique.com
@@ -2672,6 +2718,8 @@ goldengoosemagyarorszag.com
 goldengoosemagyarorszag.top
 hellyhansenbudapest.eu
 hellyhansenhungary.eu
+hoffcipohungary.com
+hoffmagyarorszag.com
 hungaryonline.shop
 jansport-hu.shop
 jblmagyarorszag.com
@@ -2679,6 +2727,7 @@ kedscipohungary.com
 lanvinbudapest.com
 longchamp-budapest.com
 longchampmagyarorszag.eu
+magyarorszagmktaska.shop
 mvmthu.com
 nakedwolfebakancs.com
 on-hungary.com
@@ -2790,7 +2839,7 @@ littleoutlet.shop
 smallshope.shop
 surprisestore.shop
 
-!az alábbi email címmel kereshető :info@chicbel.shop
+!az alábbi email címmel kereshető info@chicbel.shop
 chicbel.pl
 chicbel.shop
 chicbell.store
@@ -3282,10 +3331,12 @@ rwillfulj.lol
 tjerk.lol
 
 !THB Ventures LLP
+!"reddit.com/r/findfashion/comments/1dn6th4/this_dress_is_gorgeous/"
 breebliss.com
 lucanora.hu
+lucanorabudapest.com
 
-!ugyanazokat a csodaszereket árulja, még át kell nézni mi minden tartozik hozzájuk
+!ugyanazokat a csodaszereket árulja, TODO: még át kell nézni mi minden tartozik hozzájuk
 !xiongyal
 !service@wellrtgfd.com
 !service@sugoper.com
@@ -3302,7 +3353,7 @@ suntherd.top
 tenyng-se.com
 vitaglowd.com
 
-!Fubsta és egyéb kamu csodaszereket árulja, még át kell nézni mi minden tartozik hozzájuk
+!Fubsta és egyéb kamu csodaszereket árulja, TODO: még át kell nézni mi minden tartozik hozzájuk
 bravefa.com
 chriswu.shop
 claowabec.com
@@ -3384,6 +3435,7 @@ frlmh.xyz
 gbndr.xyz
 gdbow.shop
 gfhrk.shop
+gfrdx.shop
 godsotre.shop
 greka.life
 hcerw.top
@@ -4256,6 +4308,7 @@ fearwing.com
 forestbai.com
 fulmoan.com
 fuozr.com
+gbniuk.icu
 genralt.com
 gooershp.com
 hearsot.com
@@ -4414,7 +4467,6 @@ hu.artoviv.com
 hu.boombreast.com
 hu.bspcorrnd.com
 hu.burnbooster.com
-hu.cardionv.com
 hu.celleasy.eu
 hu.cystov.com
 hu.desireternel.com
@@ -4724,12 +4776,6 @@ volcomg.shop
 dermae.hu
 vervory.hu
 
-!TRACKING!
-agiwex.com
-track.horinikos.com
-horinikos.com
-perrt.info
-
 !kamu lindt
 buy-shop1.quest
 bettersale9.store
@@ -4739,6 +4785,251 @@ spec1trend7.shop
 !mysterbox
 buy-shop3.quest
 stockparcel.com
+your-store3.info
+
+!egy tarsasag?
+brickelectric.com
+catfootwearhungary.com
+echtapparelhungary.com
+elsecarantiques.com
+globemagyarorszag.com
+merrellhungary.net
+reefmagyarország.com
+retrogombfoci.hu
+shourimaki.jp
+uniformi-t.com
+zshop.hu
+
+szolnokegeszseghaz.hu
+
+yokmall.hu
+
+kockabolygo.hu
+kockavaros.hu
+
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
+!"did not exist until 2019, we have been playing the role as a manufacturer as well as a supplier ever since."
+!"2019-ig nem létezett, azóta gyártóként és beszállítóként is betöltjük a szerepet"
+acalies.com
+coashe.com
+chiconway.com
+coabeautys.com
+affiry.com
+vejador.com
+zulyz.com
+
+!"Naturzon s.r.o"
+!"https://www.arukereso.hu/stores/naturzon-hu-s207747/#velemenyek-or10of0fr-1fm-1"
+deminas.hu
+naturzon.hu
+
+!Kockázatos termékeket hirdető weboldalak listája - "ogyei.gov.hu"
+!Utolsó módosítás: 2024.12.10 10:13
+!https://ogyei.gov.hu/kockazatos_termekeket_hirdeto_weboldalak_listaja
+!TODO: Átnézni, hol lehet még kapni ezeket a csodaszereket pl 
+!Anabolic stack kapszula
+!Kamagra RX tabletta, Kamagra zselé
+!Superbull kapszula
+!Dragon Power kapszula
+!CoD kapszula, tea, vital plusz
+!Almea - Svéd kék filmtabletta
+!Nátrium klorit MMS cseppek
+!Forskolin kapszula
+!Potenga kapszula
+!B17 vitamin
+!Sustanon 250 injekció
+!SPX kapszula
+!Green Snake Forte kapszula
+!ezüstkolloid tartalmú termékek
+!Viekirax
+!Adipex retard kapszula, Regenon tabletta, Reductil kapszula
+!DiaRemedium tapasz
+!Hondrocream krém 
+!ArthroNeo spray
+!BeezMax kenőcs
+!Bactefort csepp
+!Dialine kapszula 
+!Recardio kapszula 
+!SugaNorm kapszula 
+!Urotrin kapszula
+!Visimin csepp
+!Citonorm Plusz intravénás készítmény
+!Vargapeptid bőrápoló spray 
+!Hearttonus/Hearttonic oldat
+!Detonic por
+!3%-os hidrogén peroxid belsőleges
+!Ostelife gél 
+!Arbidol tabletta
+!Avormin kapszula
+!Normalife kapszula
+!Germitox tabletta
+!stb
+peakshop.hu
+3ed.hu
+kamagrarx.info
+kamagra.hu
+potenciadoktor.hu
+superbull.hu 
+top-megoldasok.com
+b17hu.info
+dragonpower.boltaneten.hu
+dianabol-shop.org
+hu.steroid.bz 
+kamagra.mx
+potenciadoktor.com
+cod-sk.com 
+almea.hu 
+mmscseppek.hu 
+slim.promociocentrum.com
+promociocentrum.com
+b17am.info 
+koksz.com  
+nelegybeteg.hu
+natureforce.hu 
+potenciabolt.hu
+drjuice.info
+fuszeraruhaz.hu
+archangelgabriel.hupont.hu
+faszallito.com
+potenciabirodalom.com
+kamagradoktor.info
+potencianoveloszerek.com
+cialis5000.com
+ferficenter.info
+merevedes.com
+szuperpiac.hu
+nextapro.hu
+cialis-tadalafil-generic.com
+szteroid.com
+ferfiaknakmost.com
+zsiregetok.com
+potenc.uw.hu
+diaremedium.com
+m.hu.thehondrocream.com
+arthro-neo.com
+thepleasuretomove.com
+hu.bacteforte.pro
+joperfas.pw
+hu.recardio.top
+hhealthy.webflow.io/
+recardio.best
+velemenyek.club
+blogstext.com/
+hu.recardiond.com
+hu.suganorm.site
+shop.healthyy.life
+orio.fun/urotrin-proshlyj-vek-hu/
+lsa3.prettyzdrav.com
+urotrin.herbalblogs.com
+andr2huuro.ru
+urotrihu.nutra-men.com
+visimin.com
+honigyogyir.hu
+cpeptide.com
+vargapeptide.com 
+sites.google.com/site/hearttonusmagyarorszag 
+2hun-hearttonic.helath-line.me
+hungary-beauty.com
+lifelive.site
+agataolek.com/detonic-velemenyek/
+egeszsegter.hu/cikk/687/eltitkolt-gyogyszer-a-3-os-hidrogen-peroxid.html
+hu2.ostelife.com
+hu.unansea.com
+lqxojgld.fitosgreats.com
+normalife.profy-goods.com
+healthy-tag.com
+hubslacml.webflow.io
+healthnormalifestores.help
+normalife-hu.offeryou.co
+mnenado-leadov.webflow.io
+fxwolf.com/giper
+hu.germitox.com
+pleasinglives.com
+medium.com/@Cardiline2020/cardiline-a-magas-v%C3%A9rnyom%C3%A1s-hat%C3%A9kony-kezel%C3%A9se-hol-lehet-v%C3%A1s%C3%A1rolni-mennyit-kell-eladni-8566bf671d01
+detonic.shop
+save-life-adyxy.webflow.io
+pens247.info
+loteltaa.remedieszdravs.com
+fitness101.hu
+youbeautiful.site
+23.kidstoys3.site
+hbfb.info
+flexumgel24.com
+auralplussachets.com
+moveblog.officialmoveflex.com
+blogslive.website/rst/intoxic-hu-hu2-antiparasite-ru-prokla1/index.php
+apoteke-online.co
+goreveleo.myshopify.com
+sirtakitex.com/persze-semmi-problema-orommel-segitek/?gclid=EAIaIQobChMIiIe5wKOO7AIVCljlCh0zZQO2EAEYASAAEgIPL_D_BwE#form
+fegijku.com
+nimirhe.com
+alex-pens24.info
+hu.cardiolnd.com
+doctorhealinggek.webflow.io
+wrantuno.gq
+nitrera.ml
+modapanda.net
+huc.prostalinelive.com
+drswiss.eu
+optivision-eu.com
+szepseg-egeszseg.com/optivision
+alex-pens.info
+llnnrwfw.zdravsgood.com
+lfgxodbm.nicephytos.com
+medical-hub.eu
+hondrostrong-cream.com
+eu-24.online
+diaprominhu.zdorovieludi.com
+potenciabolt.com
+kamagravilag.com
+kamagra-rendeles.co
+ferfipatika.to
+uromexil-hu.newhealthcares.com
+kibokitro.org.ru
+eu.ihierba.com
+covprev.eu
+tonerin-hu.offeryou.co
+mednewspro.club
+hu-tonerin.fortlkux.com
+cbdizuletek.me
+prostamin.shop
+adipex.ws
+cepes.ro
+cardioxil.cc
+esemenyek.info
+hu.cardionv.com
+porcdoktor.hu
+clean-forte.com
+potencianovelomax.hu
+brps.org.uk
+jomtom.hu
+attractiveness.pro
+sibutraminevasarlas.com
+kamagraazonnal.com
+hu1-diabex.inc-goods.com
+luwzdlyz.registrationlife.com
+pendosik4.store
+syladyo6.pro/hu/zd/inspicure_caps
+py5e.szivesen.pro/tonerin_hu_ev_n3
+gyogyszerwebaruhaz.com
+gyogyszerexpress.com
+viagraazonnal.com
+kamagra-eshop.com
+lekarenjedna.com
+ferfibutik.com
+viagravasarlasbudapest.com
+kamagrapatika.com
+cialis-rendeles.com
+kamagrashop.hu
+kamagrarendelespostan.com
+kamagraakcio.com
+
+
+!TRACKING!
+agiwex.com
+track.horinikos.com
+horinikos.com
+perrt.info
 
 !TODO: utánanézni az összes webshopnak ami erre a címre hivatkozik, mert ez egy DPD depó: Koronczói út 01628/9 hrsz. Győr
 
@@ -5473,3 +5764,15 @@ facebook.com/profile.php?id=61569442090975$all
 facebook.com/profile.php?id=61569777660584$all
 facebook.com/profile.php?id=61569592589708$all
 facebook.com/profile.php?id=61569211906853$all
+facebook.com/profile.php?id=61568835352312$all
+facebook.com/profile.php?id=61568925848959$all
+facebook.com/profile.php?id=100084553221548$all
+facebook.com/profile.php?id=61552467605802$all
+facebook.com/profile.php?id=61566978746611$all
+facebook.com/profile.php?id=61569943903247$all
+facebook.com/profile.php?id=61561727774622$all
+facebook.com/profile.php?id=100091645490344$all
+facebook.com/profile.php?id=100083330502676$all
+facebook.com/profile.php?id=615567058771388$all
+facebook.com/p/Mkatrade-mall-61556705877138$all
+facebook.com/p/Vilfino-HU-100090787164240$all
