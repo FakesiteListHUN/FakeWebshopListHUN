@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.18
+! Version: 2.19
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.12.12
+! Last modified: 2024.12.17
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -125,24 +125,24 @@ zuza-shop.com
 !vestid:
 zinubyy.com
 !egy tarsasag:
-palma-shop.eu
-mint-star.hu
 mint-shop.hu
+mint-star.hu
+palma-shop.eu
 !egy tarsasag:
-masbdhi.com
 bsxbuas.com
+masbdhi.com
 !egy tarsasag:
-ifladys.com
-foreversightcollection.com
 adorawe.net
+foreversightcollection.com
+ifladys.com
+rtsvna.com
 shantabox.com
+shopdailyday.com
 soulmia.com
 soulmiacollection.cl
 soulmiacollection.com
 soulmiacollection.com.mx
 soulmiacollection.fr
-rtsvna.com
-shopdailyday.com
 !egy tarsasag:
 bazarosonline.hu
 bazarulonline.ro
@@ -242,6 +242,7 @@ gsaence.com
 healingle.shop
 hobbymish.com
 holmibolt.hu
+homeandmarker.eu
 hu.jojoy.eu
 hubuy.shop
 jewishtop.top
@@ -256,6 +257,7 @@ luckhu.com
 lunzo.hu
 lyvoxy.top
 maaarket.hu
+manlyever.com
 masori.shop
 maxcf.dndsr.life
 megapota.com
@@ -272,6 +274,7 @@ onlinebutik.hu
 onlineparkside.shop
 onnobbk.shop
 openkuai.online
+ortorex.hu
 parksideclub.shop
 parksidestore.shop
 parksidevip.shop
@@ -310,6 +313,7 @@ track.xolotracks.com
 trendzeu.com
 triumshop.com
 tt.tigyuf.online
+uggukoutletfactory.com
 urban-trend.hu
 uzo.com
 vellostore.company.site
@@ -344,6 +348,7 @@ frilla.hu
 hs-plus.com
 hsplus.si
 hu.lovilion.com
+hu.mirysol.eu
 hu.mormark.eu
 hu.revine.eu
 hu.rubicum.com
@@ -383,6 +388,8 @@ faorsstore.com
 !egy tarsasag:
 bestbrandshungary.com
 clearmites.com
+hu.defyage.co
+hu.hairoff.co
 !egy tarsasag:
 earcurex.com
 zorlix.store
@@ -393,6 +400,10 @@ bricofix-fr.com
 gearupro.com
 miniscope-sk.com
 tuline.fr
+!egy tarsasag
+japan-tiger.com
+paisleyman.com
+tomlover.com
 
 !egy tarsasag:
 hu.laturre.com
@@ -463,15 +474,15 @@ kalapod.hu
 
 !creative hu átvertek fb csoport
 allebaba.hu
+creative-hu.com
 
 !Csaló és Megbízható Webáruházak fb csoport
 tujazao.info
 
-creative-hu.com
-
-!alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com, rivkaseth2395@gmaill.com, coduserservice@outlook.com, euservice2024@outlook.com, customershelpyou@outlook.com, customerservicescstang@gmail.com, htjmguge@gmail.com vagy emily5v2joann@hotmail.com
+!alábbi szöveggel kereshetőek ezek az oldalak, néha ez az email is felbukkan wangqingbo512@hotmail.com, rivkaseth2395@gmaill.com, coduserservice@outlook.com, euservice2024@outlook.com, customershelpyou@outlook.com, customerservicescstang@gmail.com, htjmguge@gmail.com, emily5v2joann@hotmail.com, rivkaseth2395@hotmail.com
 !"Köszönjük, hogy vásárolt a magyarotthon webáruházban!" 
 !"RETURNSREFUNDS"
+!"Shenzhen Jieen Clothing Co"
 !"Logisztikai kifejezések"
 !"A "minőségre törekvő és ügyfeleinkkel törődő" alapelvhez ragaszkodva, ügyfeleinknek kiváló minőségű, alacsony költségű, biztonságos és biztonságos termékeket kínálunk postai rendelés útján.":
 !"Ha kérdése van a csomagjával kapcsolatban, illetve a követési számával, kérjük, győződjön meg róla, hogy legalább 2-5 nappal az után tette meg a rendelést, mivel ez az általános feldolgozási idő."
@@ -479,6 +490,10 @@ creative-hu.com
 !"Mindig az egyedi személyre szabott ajándékok készítésére összpontosítottunk ügyfeleink számára, nagyon versenyképes árakat biztosítva, és elköteleztük magunkat amellett, hogy jobb vásárlási élményt nyújtsunk a világ minden tájáról érkező ügyfeleinknek."
 !"Információk a legjobb szállítási lehetőségek biztosítása érdekében."
 !"Bárhol is legyen a világon, naponta több száz ügyfélnek szállítunk világszerte"
+!"Ha bármilyen kérdése vagy aggálya van, kérjük, lépjen kapcsolatba velünk."
+!"Az üzlet célja, hogy a hagyományos magyar család értékeit és érzelmeit megismertesse a világgal"
+!"bolt  egy olyan webáruház, amely kiváló minőségű termékeket kínál a vásárlóknak a világ minden táján."
+!"Sokszor sok ember nem tudja, hogyan fejezze ki a szívét és a szeretetét, egyedi ajándék megoldja ezt a problémát. Szolgáltatásunkkal feltöltheti a fényképét, hozzáadhatja a saját szavait, és rendelhet egyedi ajándékot, amely csak az Ön és az ajándékát kapó személy számára lesz egyedi."
 !+3628880000
 acheneryx.lol
 achieveyr.shop
@@ -492,6 +507,7 @@ aforeknowledge.monster
 againsay.lol
 agargoyle.monster
 agripping.monster
+aincendiary.monster
 ainfestx.monster
 ainsulin.lol
 ainsurrection.lol
@@ -505,11 +521,13 @@ arxda.monster
 atpertdr.life
 atraionx.lol
 atweiethx.monster
+atwhnd.shop
 auirseiux.lol
 awbblex.monster
 bdebarks.lol
 bdigetions.monster
 begluttonous.shop
+bextirpation.lol
 bfaction.monster
 bflaggy.monster
 bflax.monster
@@ -551,6 +569,7 @@ coordinatewr.shop
 cproductcr.live
 crakedr.lol
 csealk.lol
+cstammerk.lol
 ctakek.lol
 cuppressdr.life
 cvolatilek.lol
@@ -568,9 +587,11 @@ dpursuitcr.monster
 drllityd.monster
 dscareyo.lol
 dspjktualg.live
+dstratageml.lol
 dsupplyl.life
 dtooll.lol
 dtruthl.monster
+dwoollengk.lol
 earraym.lol
 ecomprehendm.lol
 eelucidate.monster
@@ -590,8 +611,10 @@ etermm.lol
 ethwgter.monster
 etrustm.monster
 eunlikem.lol
+eveerm.monster
 fbipedh.lol
 fbusth.lol
+fdeapanh.lol
 fdiehardh.monster
 fhouseoir.shop
 fidenticaloir.shop
@@ -600,6 +623,7 @@ fjaslfjal.com
 foilvb.lol
 foverkgm.live
 fperformwr.lol
+fprvrtycr.live
 fracedr.lol
 frefantf.lol
 fregularlyf.lol
@@ -610,7 +634,10 @@ fthroat.lol
 fubioncr.monster
 fuyegfug.com
 fvoballh.lol
+fwarranth.monster
+gaxled.lol
 gbeacond.lol
+gcylinderd.monster
 gexemplify.monster
 gexpansive.monster
 ggash.monster
@@ -635,9 +662,11 @@ hkermrtlywr.lol
 hlouaiusp.monster
 hmassuy.monster
 hmeasurepr.lol
+hmonolithic.lol
 honestoir.shop
 howlgm.live
 hpanelhg.live
+hpeckp.monster
 hquartcr.monster
 hremedyh.lol
 hrevolary.live
@@ -648,23 +677,29 @@ hsecondlyp.lol
 hshieldp.monster
 hsurnamep.life
 htribep.lol
+huwyt.mhovm.top
 huya.zszeo.store
 hwdmo.life
 ieminence.lol
 ieminent.lol
 iexhaustive.monster
+iextract.lol
 ifallible.lol
+ifloodgate.lol
 ikin.lol
 imechanism.lol
 imellifluous.lol
+inip.lol
 jautonomyy.monster
 jbogusy.monster
 jcoergety.lol
 jcomplacenty.monster
+jcutivtedy.lol
 jdaptablej.monster
 jdousey.monster
 jhumane.lol
 jidigenty.monster
+jinrementy.lol
 jjdiscipley.lol
 jlecturecd.life
 jpraisey.life
@@ -673,14 +708,17 @@ jscipicyo.lol
 jshadowy.monster
 jspader.live
 jstairy.live
+jventurey.monster
 jwsorfulrb.lol
 jydistilly.monster
 kcumulusr.lol
 keaesdopr.monster
 kinautnr.lol
+kincubater.lol
 klump.lol
 kopenvb.lol
 kpreservey.life
+krefreshk.monster
 kshaker.monster
 ktheirr.lol
 kvistar.monster
@@ -709,11 +747,14 @@ mflfawinch.monster
 mfullbodied.monster
 mgullible.lol
 mharangue.monster
+mhovm.top
 mkindred.lol
+mmarked.lol
 mmarrieduy.monster
 mmotorw.monster
 moutlinecv.life
 mprdgecr.live
+mreformm.monster
 mrelationm.lol
 mrobe.live
 mroutineet.monster
@@ -721,6 +762,7 @@ msewit.monster
 msobe.life
 mstndayt.lol
 msurdert.life
+mtranslatet.lol
 muniquet.lol
 namalgamx.lol
 ndeboucho.lol
@@ -745,6 +787,7 @@ nreward.live
 nsecreto.lol
 nskino.monster
 nstageo.live
+nstpulateo.monster
 nwayo.monster
 nwitnessxz.lol
 nyutdyyrscv.life
@@ -756,6 +799,7 @@ oextricable.monster
 ofern.monster
 ogasification.monster
 ogenteel.lol
+oinsoluble.monster
 oiridescent.monster
 oithodw.lol
 oleakcd.life
@@ -776,10 +820,10 @@ pdampenq.monster
 pdecepionq.lol
 pdenimq.monster
 pduelq.lol
+plentcoling.shop
 pindolentq.monster
 plondayw.live
 pnorthhy.monster
-podvodnabazaru.cz
 popetevb.lol
 ppdsomitq.lol
 prubberet.monster
@@ -807,11 +851,13 @@ rcallowj.monster
 rcredbej.monster
 recyhducst.com
 rimmunity.lol
+rintact.lol
 rleadershcd.life
 rlintj.lol
 rninetylp.monster
 roya.zszeo.store
 rproducecr.live
+rprotfbcr.live
 rshedj.monster
 rshotj.lol
 rstintej.lol
@@ -837,12 +883,14 @@ tbutrssf.lol
 tcompatriotf.monster
 tdearthf.lol
 tdyslexiaf.monster
+thyperactivity.lol
 tnolp.monster
 tobvtusfg.lol
 tornadocst.com
 tovemrhy.monster
 tpeachlp.monster
 tprecsony.life
+ttoutf.lol
 ttypistf.monster
 tuddingcr.monster
 twatallf.monster
@@ -876,6 +924,7 @@ vvdagrableg.lol
 vwaterg.monster
 walchemy.monster
 warmoryv.lol
+waspenv.monster
 wawornev.lol
 wbuoyv.lol
 wcquitw.lol
@@ -890,12 +939,14 @@ wmanagemuy.monster
 wmovew.lol
 wmundane.lol
 wobjtifg.lol
+wpartwr.monster
 wprofouscr.live
 wquitdr.lol
 wsitev.monster
 www.begluttonous.shop
 www.ybrkk.live
 xbreachn.monster
+xcurtailn.monster
 xdivergen.lol
 xinclusiven.lol
 xlegalcd.life
@@ -930,6 +981,7 @@ ysurgerya.life
 ytella.monster
 yudetya.monster
 yvehiclea.monster
+yvirtuousa.monster
 zantyulogisc.monster
 zcdinterc.lol
 zcolonnadec.lol
@@ -1335,13 +1387,16 @@ wpetroleumry.lol
 !"afterservice2022@outlook.com"
 !"gaoqian341@gmail.com"
 !"furry12138@outlook.com"
+!"gaoqian0312@gmail.com"
 !"Weifang Yayue könyvkereskedés"
 !"A 2020-ban alapított kkcd.live kezdetben csak egy 10 fős csapat volt."
 !"Anyavállalatunk, a cnnuuix több mint 50 éves ruhagyártási tapasztalattal rendelkezik Európában"
 !"Eddig Európa-szerte e-kereskedelmi vállalattá váltunk"
 !"Segítsen ügyfeleinknek, hogy a legjobban nézzenek ki és érezzék magukat a tökéletes illeszkedés viselésével."
 !"Az évek során több tízezer ruhadarabot adtunk el Európában és szerte a világon e-kereskedelmi platformunkon."
-"Jinan Zhichuang Culture Media Co., Ltd."
+!"Jinan Zhichuang Culture Media Co., Ltd."
+!"Harbin Gaoqian E-Commerce Co., Ltd."
+!"Ha a kézbesítés hibás címadatok miatt meghiúsul, a vásárló több mint 2 alkalommal kerül feketelistára"
 acheteurme.com
 adeloidel.com
 agupshop.live
@@ -1357,6 +1412,7 @@ beenoop.com
 beetter-wang.com
 besttool.live
 bigtree.live
+biokonstra.rs
 bjhdufb.com
 bnmac.com
 bookfbb.com
@@ -1365,9 +1421,14 @@ bradmdm.com
 brasstores.com
 breezes.live
 brendynol.com
+bugaga.top
+butterfly-hilfe-fuer-afrika.ch
+buymysale.live
 buysth.live
 buythehot.com
+buywithjl.live
 castillogado.com
+ccootd.shop
 choosem.live
 cjhdufc.com
 cjymqd.com
@@ -1377,11 +1438,14 @@ cloclubs.com
 cmdyhc.com
 cnmgdx.com
 cokefb.com
+coloury.live
+comfycod
 coosymoda.com
 crjdj.com
 cuckoooly.com
 culbb.com
 culbrohshop.com
+cwggoff.live
 cwgzs.live
 cyckeamodas.com
 cygja.com
@@ -1390,6 +1454,7 @@ daisys.live
 dbzkw.live
 ddart.live
 ddbcl.live
+ddcdshop.live
 ddlty.live
 diyibd.com
 djhdufd.com
@@ -1418,12 +1483,14 @@ fdcjl.com
 fewei.com
 flatforrest.com
 fotagshop.live
+fourthoff.live
 funwithbuys.com
 fylom.com
 gakercod.com
 gaoqiandianzishangwu.com
 generalshop.live
 ghsgdkag.com
+gigibong.com
 gonnagetrich.com
 goobuy.live
 goodgoodbuyer.com
@@ -1444,22 +1511,27 @@ hclbro1.com
 hfkudino.com
 hgdimo.com
 hhgz.live
+hhsb.live
 highgrade.live
 hinceyshop.com
 hongpaopao.live
 hoppingday.com
 hotbuysale.com
 hothnmen.com
+htddbuy.live
 hwksh.com
 hzzkh.live
 imfun.live
 irwinke.com
 jasmonks.com
+jccking.live
+jdbxoff.live
 jiaqicod.com
 jjhww.com
 jjwdw.com
 jnmissbuy.com
 jnngyuunr.com
+josada.es
 joybuybd.com
 jssz.live
 jtxqs.live
@@ -1478,6 +1550,8 @@ lbdpro.com
 lcewix.com
 lgdwux.com
 llamkyzshop.com
+lmroy.fi
+lovebestlife.live
 lpeow.com
 lprunes.com
 lqqyz.live
@@ -1486,6 +1560,7 @@ luckiny.com
 luckkin.com
 lumoslu.com
 luyslxugm.com
+lvpaopao.live
 lxfagr.com
 lxseoe.com
 lydmv.com
@@ -1498,6 +1573,7 @@ meiriqiandan.com
 mengbaodan.com
 mengchudan.com
 mesyb.com
+michaelbuelens.be
 mimiago.com
 minlandee.com
 mlqiew.com
@@ -1507,6 +1583,7 @@ modedff.com
 monzeny.com
 nanan.live
 nidassengbeing.com
+niflowersdesign.es
 novaglobal.live
 nsxyder.com
 oasisstoreonline.com
@@ -1531,11 +1608,14 @@ poidoska.com
 popshops.live
 positives.live
 pragmatik.live
+prefir.live
 pzmse.com
 qbncz.live
+qcsaleoff.live
 qiyefbb.com
 qpzm.live
 qsggh.com
+qszjstore.live
 qysshop.live
 raycloth.com
 reallmyes.com
@@ -1545,10 +1625,18 @@ rhnbm.live
 rhuuuyy.live
 rlcxxsc.com
 sadyguy.com
+sale-bazaar.live
+sale-buy.live
+sale-buynow.live
+sale-hot.live
+sale-mall.live
+sale-market.live
+sale-shop.live
 sauichoa.com
 sbbhs.live
 sellonheart.live
 sellonhearts.com
+servipneus.pt
 seyendys.com
 shinima.top
 shopegm.xyz
@@ -1560,6 +1648,7 @@ shopexc.xyz
 shopezh.xyz
 sixcrc.com
 skyfbb.com
+sljcd.live
 sllsiut.live
 smoothlyxlh.com
 solovefb.com
@@ -1571,6 +1660,7 @@ sssuyi.live
 storesbetter.com
 strangehomeook.com
 sttrw.com
+studiostarita.it
 sufficee.com
 summerclothi.com
 summerfbb.com
@@ -1584,7 +1674,9 @@ sxyry.live
 szdlbuy.live
 szukit.com
 tddyhc.com
+terapiahuoneruusu.fi
 thefortuneshops.com
+thirshop.live
 tmmmh.com
 tokabd.com
 tomaroshop.com
@@ -1598,11 +1690,13 @@ uiecod.com
 uietool.com
 unidivered.com
 useshop.live
+uxing.es
 vcrca.com
 venolack.com
 venolacky.com
 venoluck.com
 verseboutique.com
+vgwestland.nl
 virtuousy.com
 vlfornix.com
 wanzzy.com
@@ -1636,9 +1730,11 @@ ybztn.live
 yetilzeng.com
 ygswdiwang.com
 yiuesx.live
+yjchshop.live
 yjwjwd.com
 ykkfc.com
 ynan.live
+ynnyshop.live
 yoskc.com
 ytszh.live
 yuoevc.com
@@ -1646,6 +1742,7 @@ yxows.com
 yygzszshop.com
 yyzc.live
 zdskgduyz.com
+zhengqian.live
 zhnewx.com
 zhzbtsq.com
 zincrc.com
@@ -1657,7 +1754,9 @@ zthzkshop.live
 ztmnq.com
 zwmhyl.com
 zykmallshop.com
+zyloo.live
 zzpro.live
+
 
 !az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"Az "ügyfél szemszögéből a minőség megvalósítására törekvő" alapvető koncepcióját követve online kínálunk ügyfeleinknek magas minőségű, alacsony árú, biztonságos és megbízható termékeket."
@@ -2854,15 +2953,15 @@ belineli.com
 bestnfast.hu
 bestnfast.si
 decordelight.eu
+giannabellucci.com
 gyorsanvedd.hu
 kindloo.com
 lunanap.com
 popnshop.eu
+remembearshop.com
 rofhaus.com
 swiftydeals.eu
 trendorashop.eu
-remembearshop.com
-giannabellucci.com
 trendzy.hu
 
 !az alábbi szövegek egyikével kereshetőek ezek az oldalak:
@@ -4256,7 +4355,9 @@ florisvanbommelshop.com
 !az alábbi szövegek egyikével kereshetőek ezek az oldalak
 !"A házhoz szállítás díja megegyezik a Pick Pack pontokra történő kiszállítások díjával: 58.100 - Ft-tól a megrendelés ingyenes"
 !"Webáruházunk megrendeléseit a 3-10 munkanapon belül teljesíti."
+cabezonshop.me
 calvinkleinhu.cc
+ckhuwebshop.com
 etnies-magyarorszag.com
 hokacipo-budapest.com
 hokamagyarorszag-hu.com
@@ -4314,6 +4415,7 @@ gbniuk.icu
 genralt.com
 gooershp.com
 hearsot.com
+hearwl.com
 heuatir.com
 htivoa.com
 huyniar.com
@@ -4333,6 +4435,7 @@ pozisx.com
 rrbbins.com
 rtwijo.com
 scottdre.com
+shoplafiy.com
 smoenk.com
 stubime.com
 sufalon.com
@@ -4785,6 +4888,7 @@ kingpack7.quest
 spec1trend7.shop
 
 !mysterbox
+allbaseboard.shop
 buy-shop3.quest
 stockparcel.com
 your-store3.info
@@ -4829,6 +4933,8 @@ naturzon.hu
 !"ROOM 5003, 5/F, YAU LEE CENTRE, 45 HOI YUEN ROAD, KWUN TONG, HONG KONG"
 !"Ultra Holdings Limited"
 !"staff is committed to providing quality service to our customers"
+!"Explore the world of style with free shipping worldwide!"
+!"We have our own clothing factory and the fastest and most convenient logistics.,"
 !"ip@whosebilling.com"
 amazing.gshopper.com
 americajacket.com
@@ -4961,7 +5067,6 @@ sheslippermarket.com
 shopakaso.com
 shortreelz.com
 skandify.dk
-skg.com
 spuma.shop
 sqwonline.com
 stressrelieverdecor.com
@@ -4996,6 +5101,90 @@ zeelool-fr.com
 zinjaro.co.uk
 zumid.fr
 zuverlite.de
+
+!az alábbi szöveggel kereshetőek ezek az oldalak
+!"lépjen kapcsolatba velünk
+visszaküldési politika
+Adatvédelmi irányelvek
+a mi szolgáltatásunk"
+bsmjkorsc.shop
+eur.wnnsirtepoh.shop
+gentlehasven.shop
+hamberwek.shop
+wnnsirtepoh.shop
+xmswrtjw.shop
+
+!"alinwan1127@gmail.com"
+!"yrh523771@gmail.com"
+!"+852 60925382"
+aavvy.shop
+ackered.shop
+ailoog.shop
+angaroos.shop
+baeasan.shop
+betsa.shop
+cedarsa.shop
+claming.shop
+copasw.shop
+coyojo.shop
+cvtay.sho
+ealism.shop
+enderne.shop
+eockroac.shop
+epiphav.shop
+felicitosa.shop
+fingbir.shop
+ftbald.shop
+ftoodle.shop
+gorbike.shop
+gorml.shop
+grafsa.shop
+gtivati.shop
+heily.shop
+hrsific.shop
+ineffa.shop
+jeassn.shop
+kklomb.shop
+lagoo.shop
+lorelow.com
+macked.shop
+malark.shop
+mecair.shop
+melanch.shop
+mesplen.shop
+metaph.shop
+mraptur.shop
+navaja.shop
+nigmats.shop
+nocerosa.shop
+peretrs.shop
+plywo.shop
+qinale.shop
+ripplel.shop
+rotagon.shop
+ryneck.shop
+sential.shop
+sillusio.shop
+skive.shop
+sockat.shop
+squiio.shop
+tcockat.shop
+tlherap.shop
+topoeia.shop
+ultivat.shop
+uzwmlmz.shop
+varioam.shop
+versif.shop
+verstiy.shop
+vrtistic.shop
+vttru.shop
+waradis.shop
+wccout.shop
+wherewi.shop
+yersifi.shop
+yncrati.shop
+zeaters.shop
+zzock.shop
 
 !Kockázatos termékeket hirdető weboldalak listája - "ogyei.gov.hu"
 !Utolsó módosítás: 2024.12.10 10:13
@@ -5085,10 +5274,10 @@ thepleasuretomove.com
 hu.bacteforte.pro
 joperfas.pw
 hu.recardio.top
-hhealthy.webflow.io/
+hhealthy.webflow.io
 recardio.best
 velemenyek.club
-blogstext.com/
+blogstext.com
 hu.recardiond.com
 hu.suganorm.site
 shop.healthyy.life
@@ -5896,7 +6085,6 @@ facebook.com/profile.php?id=61567158314068$all
 facebook.com/profile.php?id=61550320035096$all
 facebook.com/profile.php?id=61566931352074$all
 facebook.com/profile.php?id=61567698489737$all
-facebook.com/profile.php?id=61552579899571$all
 facebook.com/profile.php?id=61559013613808$all
 facebook.com/profile.php?id=61559089840420$all
 !kamu temu facebook
@@ -5927,10 +6115,8 @@ facebook.com/profile.php?id=61566299403953$all
 facebook.com/profile.php?id=61568490458788$all
 facebook.com/profile.php?id=61564854839419$all
 facebook.com/HU.Jojoy/$all
-facebook.com/profile.php?id=61566299403953$all
 facebook.com/profile.php?id=61565332898913$all
 facebook.com/profile.php?id=61565458740217$all
-facebook.com/profile.php?id=61563020926073$all
 facebook.com/tori.repa$all
 facebook.com/profile.php?id=61569280712078$all
 facebook.com/profile.php?id=61569511232290$all
@@ -5950,3 +6136,12 @@ facebook.com/profile.php?id=100083330502676$all
 facebook.com/profile.php?id=615567058771388$all
 facebook.com/p/Mkatrade-mall-61556705877138$all
 facebook.com/p/Vilfino-HU-100090787164240$all
+facebook.com/profile.php?id=61559161300942$all
+facebook.com/profile.php?id=61553342970054$all
+facebook.com/afriqlineagency$all
+facebook.com/profile.php?id=61563291240036$all
+facebook.com/DefyAgeHungary1$all
+facebook.com/HomeandMarkerHU$all
+facebook.com/profile.php?id=100087043362671$all
+facebook.com/p/Lydmv-100085235215976$all
+facebook.com/profile.php?id=100086991564046$all

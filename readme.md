@@ -1,6 +1,6 @@
 
 ## Mi a célja ennek a listának?
-A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozása és karbantartása, amely kiszűri az álwebáruházakat, megelőzve az anyagi kár elszenvedését. Elsősorban olyan oldalakat tartalmaz a lista, amik magyar nyelvűek vagy törekednek a magyar felhasználók becsapására. Jelenleg kb. 4000 oldal van összeszedve, de egy kis segítséggel, közösen könnyen bővíthetjük, mert sajnos nap, mint nap rengeteg új csaló webáruház "nyitja meg kapuit".
+A FakeWebshopListHUN célja egy olyan reklámblokkoló szűrőlista létrehozása és karbantartása, amely kiszűri az álwebáruházakat, megelőzve az anyagi kár elszenvedését. Elsősorban olyan oldalakat tartalmaz a lista, amik magyar nyelvűek vagy törekednek a magyar felhasználók becsapására. Jelenleg kb. 5500 oldal van összeszedve, de egy kis segítséggel, közösen könnyen bővíthetjük, mert sajnos nap, mint nap rengeteg új csaló webáruház "nyitja meg kapuit".
 
 Sajnos még mindig egymagam készítem ezt a listát. Remélhetőleg hamar híre megy, cikket írnak róla stb. és akkor másokkal gyorsabban tudjuk bővíteni.
 
