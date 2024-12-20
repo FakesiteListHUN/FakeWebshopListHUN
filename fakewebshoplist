@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.19
+! Version: 2.20
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.12.17
+! Last modified: 2024.12.20
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -199,6 +199,7 @@ berrylook.com
 bigshophu.com
 blazeorbits.com
 bluehut-barbeque.com
+cahlla.shop
 cardinalon.shop
 checknotifywin.com
 columbiaoutletbudapest.com
@@ -260,7 +261,9 @@ maaarket.hu
 manlyever.com
 masori.shop
 maxcf.dndsr.life
+mdr24.hu
 megapota.com
+mindentolcson.hu
 moderse.eu
 nabidays.com
 naturequeens.com
@@ -357,6 +360,7 @@ soldius.com
 superzebra.hu
 toprabat.hu
 tyberio.eu
+veraze.eu
 vigoexpress.hu
 vigoshop.hu
 !egy tarsasag (pl fali konvektor/klima):
@@ -1632,6 +1636,7 @@ sale-hot.live
 sale-mall.live
 sale-market.live
 sale-shop.live
+sale-store.live
 sauichoa.com
 sbbhs.live
 sellonheart.live
@@ -2798,7 +2803,8 @@ treasuregive.com
 !"Kérjük, készítsd elő a kártyádat! A bankkártyával történő fizetéshez az alábbi adatokra lesz szükséged:"
 !"elkötelezett a maximális vásárlói elégedettség irányában, emiatt kizárólag a saját üzleteinkben és raktárunkban polcon lévő és azonnal elérhető termékeket értékesítünk webáruházunkban."
 24bottleshungary.com
-agentprovocateurbudapest.com
+adidashungaryeu.comm
+agentprovocateurbudapest.co
 alohascipo.com
 alphaindustrieshungary.com
 annekleinwebshop.com
@@ -2886,7 +2892,6 @@ lineoshop.hu
 lovilion.com
 maldero.com
 mormark.eu
-myhank.hu
 netscroll.hu
 onlyfrolsho.com
 shoeishopp.com
@@ -4889,9 +4894,43 @@ spec1trend7.shop
 
 !mysterbox
 allbaseboard.shop
+buy-shop1.quest
+buy-shop2.quest
 buy-shop3.quest
+buy-shop4.quest
+buy-shop5.quest
+buy-shop6.quest
+buy-shop7.quest
+buy-shop8.quest
+buy-shop9.quest
+shop-sale1.quest
+shop-sale2.quest
+shop-sale3.quest
+shop-sale4.quest
+shop-sale5.quest
+shop-sale6.quest
+shop-sale7.quest
+shop-sale8.quest
+shop-sale9.quest
+shopsmart1.store
+shopsmart2.store
+shopsmart3.store
+shopsmart4.store
+shopsmart5.store
+shopsmart6.store
+shopsmart7.store
+shopsmart8.store
+shopsmart9.store
 stockparcel.com
+your-store1.info
+your-store2.info
 your-store3.info
+your-store4.info
+your-store5.info
+your-store6.info
+your-store7.info
+your-store8.info
+your-store9.info
 
 !egy tarsasag?
 brickelectric.com
@@ -5185,6 +5224,18 @@ yersifi.shop
 yncrati.shop
 zeaters.shop
 zzock.shop
+
+simbahungaria.com
+
+!"2DIGIT d.o.o"
+hank.si
+hanksly.hu
+hanksly.pl
+hanksome.hu
+myhank.hu
+najindom.si
+
+!"BANLING INTERNATIONAL" TODO:weboldalt találni hozzájuk
 
 !Kockázatos termékeket hirdető weboldalak listája - "ogyei.gov.hu"
 !Utolsó módosítás: 2024.12.10 10:13
@@ -6145,3 +6196,10 @@ facebook.com/HomeandMarkerHU$all
 facebook.com/profile.php?id=100087043362671$all
 facebook.com/p/Lydmv-100085235215976$all
 facebook.com/profile.php?id=100086991564046$all
+facebook.com/profile.php?id=61554260015019$all
+facebook.com/profile.php?id=100086994596269$all
+facebook.com/profile.php?id=61569994619640$all
+facebook.com/profile.php?id=100090409350847$all
+facebook.com/profile.php?id=100086994596269$all
+facebook.com/tibor.rojko.5$all
+facebook.com/hanksome.hu$all
