@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.20
+! Version: 2.21
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.12.20
+! Last modified: 2024.12.21
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -1443,7 +1443,7 @@ cmdyhc.com
 cnmgdx.com
 cokefb.com
 coloury.live
-comfycod
+comfycod.com
 coosymoda.com
 crjdj.com
 cuckoooly.com
@@ -5143,9 +5143,9 @@ zuverlite.de
 
 !az alábbi szöveggel kereshetőek ezek az oldalak
 !"lépjen kapcsolatba velünk
-visszaküldési politika
-Adatvédelmi irányelvek
-a mi szolgáltatásunk"
+!visszaküldési politika
+!Adatvédelmi irányelvek
+!a mi szolgáltatásunk"
 bsmjkorsc.shop
 eur.wnnsirtepoh.shop
 gentlehasven.shop
@@ -5234,6 +5234,178 @@ hanksly.pl
 hanksome.hu
 myhank.hu
 najindom.si
+
+!az alábbi szövegek egyikével kereshetőek ezek az oldalak
+!"Our mission is simple: to provide you with an unparalleled shopping experience that combines convenience, affordability, and the thrill of finding something truly special."
+!"we're passionate about curating a collection of one-of-a-kind items that you won't find anywhere else"
+1clickshops.com
+29707e-47.myshopify.com
+aavikart.com
+absecommerce.in
+addoncart.in
+afrinmart.in
+agastystore.com
+akashdigital.store
+amardigitalproducts.store
+avinstore.in
+basicneed.store
+bigsmartbazaar.store
+bonbull.in
+boojhomart.in
+boomsy.shop
+candidpurchase.store
+chrasen.com
+classycrazestore.com
+click2collect.in
+cozmart.in
+cozycreations.in
+crazydream.in
+cynova.in
+dailyoffer.co.in
+daretrends.com
+dealanddone.in
+dealdynomo.store
+dealsarcade.in
+dhruvstore.store
+eaorusen.com
+easiffy.in
+easygomart.in
+easymallnet.in
+ecodealsmarket.in
+ecomgrove.in
+ecommarketstore.com
+elegancestore.co.in
+escapismstore.com
+exploreshop.in
+farryshops.com
+ferienemart.com
+freshaura.online
+gadgetmuseum.shop
+gadgetsunique.com
+gdmarket.org
+geekchic.in
+getunique.in
+giftsavvy.in
+goodchoices.in
+goodnessshop.in
+goodprodact.shop
+gotograb.in
+grabber.one
+grabbly.in
+grabdeals.today
+grabiit.in
+grabio.store
+grabitfast.in
+grabmust.in
+greatgrab.co.in
+greatmall.in
+guptajikidukan.in
+hishine.in
+homzydecor.com
+hugglekraft.com
+indianpstore.com
+indiship.in
+jamwaycollection.in
+jhumkabareliwala.com
+kananistore.com
+kasturistore.in
+kbstores.in
+keejooo.shop
+keepit.co.in
+kimayastore.in
+kksons.shop
+krishivasstore.com
+krishra.shop
+letzgrabit.in
+luxeheritage.in
+lyfgroshop.com
+maazstore.in
+mahatrendz.com
+mallickhomesolution.com
+marketzi.co.in
+mastgrab.in
+mekshop.in
+mightyfinds.in
+mirhamart.in
+mrkantistore.shop
+multiplemarts.com
+mustbagit.in
+mustby.in
+mustuse.in
+myfirozabad.in
+netshoppers.org
+oleamart.com
+olivedrop.in
+onlineofferszone.in
+orientaldeals.store
+pctrendmart.in
+peakwagon4.odoo.com
+picknbuy.co.in
+pickpointstore.store
+pksstore.in
+primelookstore.com
+primesupplies.tech
+quicklyyours.store
+qwikpurchase.com
+readyforgrab.com
+reallyuseful.in
+rectocart.in
+rimity.in
+rochasmart.in
+rocker-lifestyle.com
+roshanstores.in
+safronspot.in
+scrleostore.in
+shagrow.in
+shopaholicsshop.store
+shopistry.in
+shopiverse.in
+shopnowstore.in
+shoppingfellow.store
+shoppingritual.com
+shoppystores99.in
+shopvoyla.com
+shopwisely.in
+shopzokart.in
+shrisell.in
+simplyeshop.in
+sinusxyz.in
+snapdeals.me
+solvepick.com
+sonupatil.store
+speedshopper.in
+spocit.in
+squaregambit.shop
+srhallinonestep.in
+subtlenaari.com
+sumoranstore.in
+the-shophub.in
+thebuyspot.in
+theeasybuy.in
+theezybazaar.in
+theflyingmacaw.com
+thegadgetix.in
+thegadhavistore.in
+theglobalgoods.in
+themirayas.in
+theuniquify.com
+ticklemycart.com
+tiedyestore.in
+tradepixel.in
+trendify.net.in
+trendingasmstore.in
+trendingsr.com
+trendlyy.in
+trendsdrop.in
+trendyte.in
+trendywonders.com
+urbanristastore.com
+vellyzone.in
+viralproducthub.store
+wraposo.in
+xanloda.com
+zenotekstore.com
+zippydrop.in
 
 !"BANLING INTERNATIONAL" TODO:weboldalt találni hozzájuk
 
@@ -6203,3 +6375,6 @@ facebook.com/profile.php?id=100090409350847$all
 facebook.com/profile.php?id=100086994596269$all
 facebook.com/tibor.rojko.5$all
 facebook.com/hanksome.hu$all
+facebook.com/profile.php?id=61569915923554$all
+facebook.com/profile.php?id=61569536525399$all
+facebook.com/profile.php?id=61569574892336$all
