@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 2.21
+! Version: 2.22
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
-! Last modified: 2024.12.21
+! Last modified: 2024.12.28
 ! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/FakesiteListHUN/FakeWebshopListHUN
 
@@ -181,6 +181,7 @@ shopon.hu
 webarena.hu
 
 !Külföldi csaló webáruházak listája csoport fb oldal
+||nav.gov.*.online
 1stellarbytes.com
 24dpd.xyz
 allstarhomeandgardenrt.buzz
@@ -308,6 +309,7 @@ stopandshop24.com
 sunwhitebcn.com
 superdw.com
 surprisebox-eu.com
+tempisite.com
 termekek-minosegi.hu
 territorymod.com
 textile365.space
@@ -503,6 +505,7 @@ acheneryx.lol
 achieveyr.shop
 aclinicalx.lol
 acolonizex.lol
+adeficitx.lol
 aenact.lol
 aescalate.lol
 aethereal.monster
@@ -2853,6 +2856,7 @@ schollwebshop.com
 skechersshopbudapest.com
 sloggimagyarorszag.com
 songmontbudapest.com
+stanley-hungary.com
 stussy--budapest.com
 stussybudapest.eu
 stussymagyarorszag.org
@@ -3361,7 +3365,9 @@ zrilla.com
 
 !az alábbi email címmel kereshető support@tuomi.store
 abtek.ltd
+adbsk.ltd
 afukd.ltd
+ahiue.ltd
 anmsu.top
 aznmg.top
 bedak.shop
@@ -3373,13 +3379,17 @@ btrsk.ltd
 dbnej.top
 dbsnu.ltd
 dbtyk.ltd
+digigi.shop
 dnmlp.ltd
+dsabu.ltd
 ferjl.ltd
 freay.ltd
 gdnch.shop
 glpsr.top
 gxewn.ltd
 hnsmk.ltd
+jbrms.ltd
+jodbf.ltd
 kbtgm.ltd
 kgbdq.ltd
 kghvc.ltd
@@ -3403,19 +3413,26 @@ pgfyl.ltd
 podvodnabazaru.cz
 portaldaqueixa.com
 psmfy.ltd
+pyjtd.ltd
 qgrte.ltd
+qhtra.ltd
 qvdrk.ltd
 qwejl.ltd
+regjz.ltd
 rtdxm.ltd
 sding.top
 tbrmd.ltd
 uagbd.ltd
 vndmp.ltd
+vnmau.ltd
 vnmdy.ltd
+vrejw.ltd
 vwptj.shop
 wdbmh.top
 wmjku.ltd
 wnmsy.ltd
+wvgdy.ltd
+wvrtb.ltd
 wxgdk.top
 xceyl.ltd
 xisme.xyz
@@ -3426,6 +3443,7 @@ yzdbf.ltd
 zbnep.top
 zshti.top
 zwgig.ltd
+zxbuy.ltd
 
 !kamu lidl
 amarwsec.lol
@@ -3504,6 +3522,9 @@ tbineshoes.com
 !"A legjobb szolgáltatásokat és termékeket kínáljuk Önnek!"
 !"a világ egyik vezető online áruháza, és sok oka van annak, hogy nálunk vásároljon. Gyorsan növekvő cég vagyunk, mert mindig ügyfeleink az elsők."
 !"Együttműködünk a Nemzeti Teljesítési Központtal, hogy a lehető leggyorsabban kézbesítsük megrendelését"
+!"Szenvedélyesen rajongsz a divatért, és szeretnél egy dinamikus, innovatív és keményen dolgozó csapat tagja lenni?"
+!"Szívesen válaszolunk minden kérdésére, vagy becslést adunk"
+!"Üdvözöljük kapcsolatfelvételi oldalunkon, amely az elkötelezett csapatunkkal való zökkenőmentes kommunikáció kapuja"
 !service@solostores.com
 !support@linkowa.com
 !service@cathyone.com
@@ -3511,6 +3532,7 @@ tbineshoes.com
 abndi.xyz
 abtyl.xyz
 acetl.xyz
+ahtug.shop
 andku.shop
 aptnd.shop
 awnyl.xyz
@@ -3527,8 +3549,10 @@ dbkwf.club
 dbntm.club
 dewaj.top
 dmnsy.xyz
+dmyhk.shop
 dnkod.ltd
 drzew.shop
+dssojbcqaao.click
 eayoutlet.com
 ebndh.shop
 enyul.shop
@@ -3551,29 +3575,38 @@ hongdingretail.com
 hytkw.top
 iykshop.com
 jbeme.shop
+jfeio.shop
 jntgs.shop
 jswh.shop
 jtgvx.shop
 kemakren.shop
+kfgcd.xyz
 kllihfczqsch.makeup
 ktydc.top
 linkowa.com
+lktgd.top
+mvduy.shop
 mxnru.xyz
+ogtfa.shop
 onmdt.top
 owlmg.shop
 owmxf.shop
 oytld.club
+pdnfy.shop
 pfnmu.shop
 pghke.top
 pjqwanmdsauw.xyz
+podnh.shop
 qabdt.club
 qbsto.xyz
 qnmao.xyz
+rbdux.shop
 rbskw.shop
 rfgdm.xyz
 rjtfg.top
 rnmdp.xyz
 sdmwt.shop
+seajv.shop
 sfxjo.club
 shpem.shop
 snytf.shop
@@ -3581,8 +3614,13 @@ soshana.top
 svbto.shop
 tnmws.xyz
 uakcr.shop
+unpdg.shop
+venmk.xyz
 vnfry.xyz
 vqtrx.shop
+wbmjp.shop
+wcvbg.shop
+whtjd.shop
 wkvmd.shop
 wsnmf.xyz
 wvfjn.shop
@@ -3595,6 +3633,7 @@ xsahu.shop
 xuelg.shop
 xvsky.shop
 xwpaq.shop
+yngfq.top
 ynwks.club
 zoiloco.com
 ztwjf.xyz
@@ -4024,6 +4063,7 @@ vitonmedical.com
 vividdrift.com
 vivifypath.com
 vynor.store
+wadaxiya.top
 wdnrstcd.com
 weblivewell.com
 wellbodyxyl.com
@@ -5407,6 +5447,44 @@ xanloda.com
 zenotekstore.com
 zippydrop.in
 
+badu.hu
+
+clubqy.top
+
+!"+391 (0)35 2568 4593"
+andalus.ba
+b-yachts.com
+baechi-cord.ch
+camarchitects.co.uk
+capitalre.com
+citryll.com
+demo16.e-mageshop.com
+eda-milano.com
+hu.tapetoo.eu
+jason-pereira.com
+josmostudio.com
+manoluck.com
+marigo.ro
+neontopia.fr
+rightergroup.com
+sangeetasweets.com
+skandilux.com
+snapbadger.com
+sobiawaseem.com
+sportivo.si
+sportsinjurieshq.com.au
+surprisestore.ca
+szewska.co.uk
+theneonproject.in
+wsiea.org
+zuekoos.com
+
+!"We hold fit, fashion, fabrication and function paramount in our design and production processes."
+avalondown.com
+chicfame.com
+cholely.com
+stodemerce.com
+
 !"BANLING INTERNATIONAL" TODO:weboldalt találni hozzájuk
 
 !Kockázatos termékeket hirdető weboldalak listája - "ogyei.gov.hu"
@@ -6378,3 +6456,10 @@ facebook.com/hanksome.hu$all
 facebook.com/profile.php?id=61569915923554$all
 facebook.com/profile.php?id=61569536525399$all
 facebook.com/profile.php?id=61569574892336$all
+facebook.com/profile.php?id=61570467445226$all
+facebook.com/profile.php?id=61570991523761$all
+facebook.com/mr.thank.you.203$all
+facebook.com/p/WelkoryshopTH-100086098792172$all
+facebook.com/p/Clubqy-shop-100090732247197$all
+facebook.com/p/Jackets-Club-61556911110963$all
+facebook.com/profile.php?id=61550686035107$all
