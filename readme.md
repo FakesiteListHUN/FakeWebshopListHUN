@@ -27,7 +27,7 @@ Ha munkájával hozzá szeretne járulni a projekthez, akkor kérem, készítsen
 <br>Köszönöm a közreműködést!
 
 ## Thanks
-Thank you [jarelllama](https://github.com/jarelllama/) to include this list to your [Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist)
+Thank you [jarelllama](https://github.com/jarelllama/) to include part of my list to your [Scam-Blocklist](https://github.com/jarelllama/Scam-Blocklist)
 
 ## Források
 https://www.losonczi-janos.hu/kamu-atveros-outdoor-ruhazati-webshopok-listaja <br>
