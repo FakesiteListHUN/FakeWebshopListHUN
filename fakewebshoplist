@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 2.25
+! Version: 2.25.1
 ! Title: FakeWebshopListHUN - Kamu/átverős/gyanús/droppshipping webáruházak, ne vásároljon itt!
 ! Last modified: 2025.05.09
 ! Expires: 2 days (update frequency)
@@ -8846,22 +8846,32 @@ zanueva.com
 !magyar spam emailekből
 !phishing hungarian email
 !egy tarsasag:
-verajore.site !main site 404 but redirect to scam sites, almost 99% of the phishing email I saw, somehow redirects to verajore.site, so it's a very important rule
+!main site 404 but redirect to scam sites, almost 99% of the phishing email I saw, somehow redirects to verajore.site, so it's a very important rule:
+verajore.site
 wellbeing24space.com
 wellbeing24deals.com
-best24dealz.com !main site 404 but subdir is scam
+!main site 404 but subdir is scam:
 !E.g. best24dealz.com/hu-visadore-lash-ar/news?utm_source=bizaglo_hu_vd&utm_campaign=hu-visadore-lash-ar
+best24dealz.com
 luckstrikeacademy.com
 simplymethodsforsurprise.com
 !egy tarsasag:
-ww8.org !main site 404 but redirect to scam sites, almost 99% of the phishing email I saw, somehow redirects to ww8.org, so it's a very important rule, also check www.spam.org/complaints?f=domain&i=ww8.org
-thenetw.com !main site 404 but redirect to scam sites
-wowoffersnow.com !main site 404 but redirect to scam sites
-starlightskythe.com !main site 404 but redirect to scam sites
-quickredir.com !main site 404 but redirect to scam sites
-thenetw.com !main site 404 but redirect to scam sites
-starlightskythe.com !main site 404 but redirect to scam sites
-news4vips.com !main site 404 but subdir is scam
+!main site 404 but redirect to scam sites, almost 99% of the phishing email I saw, somehow redirects to ww8.org, so it's a very important rule, also check www.spam.org/complaints?f=domain&i=ww8.org
+ww8.org
+!main site 404 but redirect to scam sites:
+thenetw.com
+!main site 404 but redirect to scam sites:
+wowoffersnow.com
+!main site 404 but redirect to scam sites:
+starlightskythe.com
+!main site 404 but redirect to scam sites:
+quickredir.com
+!main site 404 but redirect to scam sites:
+thenetw.com
+!main site 404 but redirect to scam sites:
+starlightskythe.com 
+!main site 404 but subdir is scam:
+news4vips.com 
 !fake MBH bank:
 yetkiliservisiyiz.net !main site 404 but redirect to scam sites
 pf.leadscloud.com
